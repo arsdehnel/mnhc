@@ -51,6 +51,8 @@ model Trail {
   videoURL    String
   dnrURL      String
   difficulty  Int
+  length      Float?      // Trail length in miles (e.g., 2.5)
+  proofCode   String?     // Code hidden on trail to verify hike completion
   notes       String
   createdAt   DateTime    @default(now())
   updatedAt   DateTime?   @updatedAt

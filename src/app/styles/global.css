@@ -34,10 +34,10 @@ body {
 
 body {
 	color: var(--foreground);
-	background: var(--background);
 	font-family: Arial, Helvetica, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	background: rgba(255, 255, 255, .1);
 }
 
 * {
@@ -64,6 +64,10 @@ header {
 }
 main {
 	min-height: 90vh;
+	max-width: 1200px;
+	padding: 1rem;
+	margin: 0 auto;
+	background: var(--background);
 }
 footer {
 	background-color: rgba(255, 255, 255, .25);

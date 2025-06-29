@@ -8,39 +8,28 @@ export async function TrailsListing() {
 
 	const dbTrails = await db.trail.findMany();
 
-	const trails = [
-		{
-			id: 1,
-			name: "foo trail"
-		}
-	]
-  
 	return (
-  
-	  <ol>
-  
-		{trails.map((trail) => (
-  
-		  <li key={trail.id}>{trail.name}</li>
-  
-		))}
 
-		<li>{ JSON.stringify( dbTrails ) }</li>
+		<>
 
-		<li>{ JSON.stringify( dbTrails.length ) }</li>
-  
-	  </ol>
-  
+			{dbTrails.map((trail) => (
+
+				<div key={ trail.id }>{ trail.name }</div>
+
+			))}
+
+		</>
+
 	);
-  
-  }
+
+}
 
 export default function Trails({ ctx }: RequestInfo) {
 	return (
-		<StandardLayout ctx={ ctx }>
-			<p>
+		<StandardLayout ctx={ctx}>
+			<h2 className="page-title">
 				Trails
-			</p>
+			</h2>
 			<Suspense fallback={<div>Loading...</div>}>
 				<TrailsListing />
 			</Suspense>
