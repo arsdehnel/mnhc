@@ -1,28 +1,9 @@
 import { Suspense } from "react";
 import { RequestInfo } from "rwsdk/worker";
-import { db } from "@/db";
+import { TrailView } from '../components/trail-view';
+import { TrailsListing } from "../components/trails-listing";
 
 import StandardLayout from '@/app/layouts/standard';
-
-export async function TrailsListing() {
-
-	const dbTrails = await db.trail.findMany();
-
-	return (
-
-		<>
-
-			{dbTrails.map((trail) => (
-
-				<div key={ trail.id }>{ trail.name }</div>
-
-			))}
-
-		</>
-
-	);
-
-}
 
 export default function Trails({ ctx }: RequestInfo) {
 	return (
@@ -30,9 +11,12 @@ export default function Trails({ ctx }: RequestInfo) {
 			<h2 className="page-title">
 				Trails
 			</h2>
-			<Suspense fallback={<div>Loading...</div>}>
-				<TrailsListing />
-			</Suspense>
+			<div className="trails-viewer">
+				<Suspense fallback={<div>Loading...</div>}>
+					<TrailsListing />					
+				</Suspense>
+				<TrailView name="My trail" difficulty={ 3 } />
+			</div>
 		</StandardLayout>
 	);
 }

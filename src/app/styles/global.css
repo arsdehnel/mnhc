@@ -76,3 +76,39 @@ footer {
 	border-top: orange 2px solid;
 	height: 5vh;
 }
+
+/* 
+ _______  ______ _______ _____        _______     
+    |    |_____/ |_____|   |   |      |______     
+    |    |    \_ |     | __|__ |_____ ______|     
+                                                  
+*/
+.trails-viewer {
+	display: flex;
+}
+.trails-listing {
+	flex: 0 0 450px;
+	.trail-box {
+		margin: 1rem 0;
+		padding: .5rem;
+		border-bottom: 1px solid #666;
+		display: flex;
+	}
+	.trail-info {
+		flex: 1 0 50%;
+	}
+	.trail-name {
+		font-size: 1.2rem;
+	}
+	.difficulty-rating {
+		font-size: .9rem;
+	}
+	.trail-thumbnail {
+		flex: 0 0 100px;
+		width: 64px;
+		border-radius: .25rem;
+	}
+}
+.trail-view {
+	flex: 1 0 25%;
+}

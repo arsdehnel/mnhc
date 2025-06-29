@@ -31,6 +31,8 @@
     "@prisma/client": "~6.8.2",
     "@simplewebauthn/browser": "^13.1.0",
     "@simplewebauthn/server": "^13.1.1",
+    "change-case": "^5.4.4",
+    "react-icons": "^5.5.0",
     "rwsdk": "0.1.3"
   },
   "devDependencies": {

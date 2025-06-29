@@ -1,0 +1,24 @@
+import { FaPersonHiking } from "react-icons/fa6";
+
+export async function DifficultyRating( { difficulty }: { difficulty: number} ) {
+
+	return (
+
+		<div className="difficulty-rating">
+            Difficulty: 
+            {
+                [ 1, 2, 3, 4, 5 ].map( rating => {
+                    if( rating > difficulty ) {
+                        return <FaPersonHiking key={ rating } fill="#444" />
+                    } else {
+                        return <FaPersonHiking key={ rating } fill="orange" />
+                    }
+                })
+            }
+        </div>
+
+
+	);
+
+}
+
