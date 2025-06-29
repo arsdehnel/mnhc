@@ -41,3 +41,18 @@ model Credential {
   @@index([credentialId])
   @@index([userId])
 }
+
+model Trail {
+  id          String      @id @default(uuid()) // Trail ID (UUID-based)
+  name        String
+  address     String
+  imageURL    String
+  pdfURL      String
+  videoURL    String
+  dnrURL      String
+  difficulty  Int
+  notes       String
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime?   @updatedAt
+  deletedAt   DateTime?
+}

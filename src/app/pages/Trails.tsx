@@ -1,11 +1,12 @@
 import { Suspense } from "react";
 import { RequestInfo } from "rwsdk/worker";
+import { db } from "@/db";
 
 import StandardLayout from '@/app/layouts/standard';
 
 export async function TrailsListing() {
 
-	// const todos = await db.todo.findMany({ where: { userId: ctx.user.id } });
+	const dbTrails = await db.trail.findMany();
 
 	const trails = [
 		{
@@ -23,6 +24,10 @@ export async function TrailsListing() {
 		  <li key={trail.id}>{trail.name}</li>
   
 		))}
+
+		<li>{ JSON.stringify( dbTrails ) }</li>
+
+		<li>{ JSON.stringify( dbTrails.length ) }</li>
   
 	  </ol>
   
