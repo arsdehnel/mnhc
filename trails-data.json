@@ -1,0 +1,1247 @@
+{
+    "version": 379,
+    "data": {
+        "Sheet1": [
+            {
+                "id": "fCMhPmjTHdfMGSSOk2nz",
+                "data": {
+                    "🔒 Row ID": "2xVzTY5ZSYeTJYelzsYLig",
+                    "$rowIndex": 3,
+                    "Address": "6959 Peller Avenue South Hastings, MN 55033",
+                    "Day": "2.5 mi",
+                    "Location Name": "Afton State Park",
+                    "Image": "https://drive.google.com/file/d/1YG4EGSzXrxYyXmHm4mASNn7-gaV3qBti/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/UTNNwT8VTtZvEXXsQvvU/pub/2QJzzQpekoq6Bd8nlQMv.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Backpack camping, Fishing, Swimming, Prairie landscape, Hiking, Cross-country skiing",
+                    "Notes": "The trail begins at the visitor center and heads south to the prairie interpretive loop — an interesting hike with its information displays. Then follow the trail to the lower picnic area. Stop at the overlook on the way for a spectacular view of the St. Croix River. From the lower picnic area, turn left into the valley bottom. This hardwoods floodplain is a good place to look for mushrooms and wildflowers. Between May and July, look for yellow lady’s slippers toward the end of the trail.",
+                    "Video": "<iframe width=\"1097\" height=\"617\" src=\"https://www.youtube.com/embed/jZUpPbuetTo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password1",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00100#homepage"
+                }
+            },
+            {
+                "id": "90F5RAVeyFyoAECOeVQm",
+                "data": {
+                    "🔒 Row ID": "iCbfo9luRkedAP6wX6CWXQ",
+                    "$rowIndex": 4,
+                    "Address": "Sandstone, MN 55072",
+                    "Day": "2.6 mi",
+                    "Location Name": "Banning State Park",
+                    "Image": "https://drive.google.com/file/d/1QYbb6QalK5Q-kPc7YfqgZNC9_GPNNR4c/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/8KomapNmBoxMrTRX41wm.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Kettle River, Canoeing, Historic sandstone quarry, Wolf Creek Falls, Hiking, Kayaking",
+                    "Notes": "Begin your hike at the picnic area. The trail traverses along the beautiful and wild Kettle River. See rock formations, woodlands and quarry ruins. View Hell’s Gate Rapids, one of Minnesota’s most challenging and dangerous kayak and canoe river experiences.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/79FlercEosY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password2",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00103#homepage"
+                }
+            },
+            {
+                "id": "e8oTs6dQTPV9Saf8jL7s",
+                "data": {
+                    "🔒 Row ID": "MSPpdWOnS4qgTy39BnlYuQ",
+                    "$rowIndex": 5,
+                    "Address": "9301 Bear Head State Park Road Ely, MN 55731",
+                    "Day": "3.0 mi",
+                    "Location Name": "Bear Head Lake State Park",
+                    "Image": "https://drive.google.com/file/d/1QteJOezR2P34opxS2HlWaz9i9Kq4YH-X/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/acVcAZordj4qMDvYoXIS.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Camping, Fishing, Great hiking trails, Wilderness atmosphere, Wildlife, 23 miles of lakeshore",
+                    "Notes": "The Norberg Lake Loop starts at the beach/picnic area. On the trail, take note of the many 75- to 100-year\u0002old white and red pine stands; a small-scale railroad grade used for turn\u0002of-the-century logging; and lovely views of Norberg Lake, well stocked with brook trout. While hiking, look for signs of North Woods wildlife, including black bear, wolf, deer, fox and a number of bird species. Your hike will end at the picnic area, treating you to the sight of lofty white pines, views of Bear Head Lake and a sandy swimming beach. This is a rugged trail with exposed rocks and tree roots.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/5bq3X1DqhAs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password3",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00109#homepage"
+                }
+            },
+            {
+                "id": "D9dQ2jgrDcdEMzWp1Wcn",
+                "data": {
+                    "🔒 Row ID": "ecnxmtTwQFK7kbZYBaZkGw",
+                    "$rowIndex": 6,
+                    "Address": "15954 County 1, Caledonia, MN 55921",
+                    "Day": "6.2 mi",
+                    "Location Name": "Beaver Creek Valley State Park",
+                    "Image": "https://drive.google.com/file/d/19QqZ54vm1rCyuzv8LdEOKel2zwfVCkJo/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/5wzvxiNSGVRJj1M4OgLc.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Camping, Trout fishing, Hiking, Bird watching, Spring woodland flowers, The \"Big Spring\"",
+                    "Notes": "Nestled in the blufflands of southeastern Minnesota, Beaver Creek Valley State Park is known for its clear spring-fed streams, home to brown and native brook trout. In spring, wildflowers blanket the woodland hills and valleys, attracting migratory songbirds like the rare Acadian flycatcher, cerulean warbler and Louisiana waterthrush. These birds nest in the park. The Hiking Club trail meanders along the stream, through prairie areas, and up into a maple-basswood and oak forest.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/MAYDKE8MjTI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password4",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00112#homepage"
+                }
+            },
+            {
+                "id": "R76VbQL0nDDrGkpJ2AMu",
+                "data": {
+                    "🔒 Row ID": "mXt5YEvERpW4AHpZtSGgkg",
+                    "$rowIndex": 7,
+                    "Address": "Waskish, MN 56685",
+                    "Day": "2 mi",
+                    "Location Name": "Big Bog State Recreation Area",
+                    "Image": "https://drive.google.com/file/d/1ayrvHeloOZ9O5RD4OHZi-36E8MpCSJRi/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/zS7aXrkZiYHDDru86RFF.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Fishing, Camping, Birdwatching, Big Bog boardwalk, Swimming, Picnicking",
+                    "Notes": "Begin the Big Bog boardwalk at the far end of Ludlow Pond in the park’s North Unit. This trail \r\neads to many of the bog’s most fascinating features. Along the way, look for signs that introduce the bog’s unique and mysterious plant and animal life, as well as its rich geological and human history. At the end of the boardwalk is a platform, benches and spotting scope.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/O0V1eUPpsZM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password5",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=sra00308#homepage"
+                }
+            },
+            {
+                "id": "XchHNqViq91EyxnwdXmI",
+                "data": {
+                    "🔒 Row ID": "MBKtfwAIQDqDqg65c5bByQ",
+                    "$rowIndex": 8,
+                    "Address": "35889 Meadowbrook State Park Road Ortonville, MN 56278",
+                    "Day": "2.2 mi",
+                    "Location Name": "Big Stone Lake State Park",
+                    "Image": "https://drive.google.com/file/d/1NKxIVAE0_lQpzy35RwTOuJQgGyF7I5Aw/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/mfo25dU8bPJOisfZeKKr.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Lakeside campsites, Fishing, Bird watching, Native prairie, Spring and summer wildflowers, Swimming beach",
+                    "Notes": "The trail begins just north of the boat landing parking lot at the Bonanza area. It follows along the shore of Big Stone Lake through a glen of oak, ash, basswood and chokecherries. Hike over a hillside which once formed the bed of glacial River Warren. Cross over spring-fed creeks and past a small waterfall tumbling over iron-stained beds of orange sand. The trail loops around and back onto itself behind a privately owned environmental education center. Enjoy great views of the lake and South Dakota’s rolling hills",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/9sd2u3LNwQU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password6",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00115#homepage"
+                }
+            },
+            {
+                "id": "AzCgrXSXg5Aim2yUVU7d",
+                "data": {
+                    "🔒 Row ID": "d860FMWzT6iOOruzb2QBAA",
+                    "$rowIndex": 9,
+                    "Address": "1410 161st Street Luverne, MN 56156",
+                    "Day": "6.2 mi",
+                    "Location Name": "Blue Mounds State Park",
+                    "Image": "https://drive.google.com/file/d/1CcaR1utSQbSE1GLZihtLm8NmvjJPVwdN/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/gb5jnqUvOIlAWameIMz5.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Cactus, Camping, Hiking, Rock climbing, Wildlife, Bison herd, Prairie wildflowers, Native grasses",
+                    "Notes": "Begin your hike at the picnic grounds and hike south on the Mound Trail. Watch for a glimpse of the bison herd as you hike along the east fence of the bison range. Adventurous hikers can scramble up Eagle Rock (photo p. 14) for a view of the bison range to the north and the Rock River Valley to the east and south. When you reach the south end of the Mound Trail, turn left and hike east and north on the Upper Cliffline Trail, watching for rock climbers, prickly pear cacti, and prairie wildflowers. When you reach the bike trail, turn right and follow the paved trail to the Mound Creek Bridge. Cross over Mound Creek and follow the Mound Creek Trail to the west and north. The Mound Creek Trail will enter the campground from the north. Follow the campground road out of the campground and rejoin the Mound Creek Trail near the group camp. Follow the Mound Creek Trail back east until you reach the picnic grounds.",
+                    "Video": "<iframe width=\"977\" height=\"550\" src=\"https://www.youtube.com/embed/LhyFQBJSxtY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password7",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00121#homepage"
+                }
+            },
+            {
+                "id": "WBIZ8XWDSVJyFS2syOXz",
+                "data": {
+                    "🔒 Row ID": "hhg99LVvTRWL0I9S5uU7Aw",
+                    "$rowIndex": 10,
+                    "Address": "565 155th Street South Glyndon, MN 56547",
+                    "Day": "2.5 mi",
+                    "Location Name": "Buffalo River State Park",
+                    "Image": "https://drive.google.com/file/d/1FYtkfJuPg7Jhd5-mcnMtYxkffjaZUDcV/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/Fb27qbkWlrxaYsbYBEma.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Accessible swimming pond, Great picnicking, Camping, Fishing, Native prairie landscape, Sandy beach",
+                    "Notes": "Start your hike in the picnic area between the swim pond and the Buffalo River. The riverine forest and prairie expanses of the park provide varied habitat. Deer are plentiful and moose can be seen on rare occasions. Bird watchers may see riverbank-nesting birds such as kingfishers and bank swallows. Prairie chickens, as well as coyotes, roam the native prairie of the park. The work of the Works Progress Administration (1937–39) can be admired in the stone and wood buildings seen along the trail.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/fqLPzWB7c5M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password8",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00124#homepage"
+                }
+            },
+            {
+                "id": "R7k5K2FHNgzvsca1Sjdq",
+                "data": {
+                    "🔒 Row ID": "Y.oyo5zhT2CW-cc66w3SWg",
+                    "$rowIndex": 11,
+                    "Address": "1897 Camden Park Road Lynd, MN 56157",
+                    "Day": "2.4 mi",
+                    "Location Name": "Camden State Park",
+                    "Image": "https://drive.google.com/file/d/1VcP3xTB0syzM1JJiQYgNPQaAxpR7B6zI/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/dy2P62vIV7lFclZzrsC2.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Camping, Fishing, Fall colors, Dakota Overlook, Wildflowers, Native and restored prairies",
+                    "Notes": "From the beach house, follow the Dakota Valley Trail along Indian Creek. Your reward? A spectacular sampling of spring wildflowers and later, fall colors. View the Redwood River Valley from the overlook. Then hike the wooded valley’s rim, where you will find remnants of the tallgrass prairie. In the summer, take a cooling swim in the spring-fed pool you’ll find at the end of your hike.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/jOMxSbD-mbs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password9",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00127#homepage"
+                }
+            },
+            {
+                "id": "7QP3qau3SlVxGCnSPmnh",
+                "data": {
+                    "🔒 Row ID": "mrGtA4dKSdW8aUWDWmDYOg",
+                    "$rowIndex": 12,
+                    "Address": "19041 Hwy 74 Altura, MN 55910",
+                    "Day": "1.8 mi",
+                    "Location Name": "Carley State Park",
+                    "Image": "https://drive.google.com/file/d/1Yl3hjruhL0Iwnmj4UNIcmadvTUkki6wI/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/Wi0lUCTB2awh3RRl38FG.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Camping, Fishing/trout stream, Spring wildflowers, Hiking, White pine stands, Bluebells in May",
+                    "Notes": "There’s something new to discover on this trail each season. Begin your hike at the picnic area parking lot. Spring brings Virginia bluebells, and summer displays large swallowtail butterflies. Hike through a native white pine stand. The trail is especially pretty during the peak of fall colors, typically in late September to mid-October. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/UxpjriMfyvM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password10",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00130#homepage"
+                }
+            },
+            {
+                "id": "DAEsqgNvDKTpWpV5tF6n",
+                "data": {
+                    "🔒 Row ID": "FKzbf-t6SU6PS2epSAl.5A",
+                    "$rowIndex": 13,
+                    "Address": "3481 West Highway 61 Lutsen, MN 55612",
+                    "Day": "3.5 mi",
+                    "Location Name": "Cascade River State Park",
+                    "Image": "https://drive.google.com/file/d/1ljz6xBcscH14JXH_4Sj6ctvp3osKddwO/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/rEZVigLba54pltmBRFtk.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Hiking, Camping, Skiing, Waterfalls, Fishing, Lake Superior",
+                    "Notes": "Begin your hike at the Trail Center. Follow the Cascade River Trail to the Superior Hiking Trail. Be sure to take in the view of the cascades from the overlook along the river. Follow the trail along the Cascade River, through a hardwood coniferous forest of aspen, birch, spruce and fir, and up to Lookout Mountain. Take a break, enjoy the view and then continue past the trail shelter. Look for the Hiking Club trail to depart from the Superior Hiking Trail on the left and head back downhill.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/dtxtuqo9tJ4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password11",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00133#homepage"
+                }
+            },
+            {
+                "id": "0NhQxKOCZCm2kF2TD8tZ",
+                "data": {
+                    "🔒 Row ID": "tk-E6WOmS027W82UtUqSRw",
+                    "$rowIndex": 14,
+                    "Address": "1615 Lindbergh Drive South Little Falls, MN 56345",
+                    "Day": "2.8 mi",
+                    "Location Name": "Charles A. Lindbergh State Park",
+                    "Image": "https://drive.google.com/file/d/1CL5Mbm-oP8YFSzvi3Xd9YREl6q0MzXj5/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/voK2BVO2psZMq2YpLOAa.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Camping, Historic site, Picnicking, Spring wildflowers, Mississippi River, Great family reunion park",
+                    "Notes": "Begin your hike at the picnic area, with its historic Works Progress Administration picnic shelter and stone water tower. Hike through hardwoods and grand white pine forests where young Charles A. Lindbergh, famous aviator, once walked. Take in the view from the scenic overlook on the bank of Pike Creek. Follow the trail as it winds through the woods along the creek to open fields for excellent wildlife viewing. Watch for bald eagles year-round and Eastern bluebirds during the summer months.",
+                    "Video": "<iframe width=\"1004\" height=\"753\" src=\"https://www.youtube.com/embed/rPTWTNlyM4A\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password12",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00136#homepage"
+                }
+            },
+            {
+                "id": "K59FDdPHZoolKewtklXM",
+                "data": {
+                    "🔒 Row ID": "3xUrSjfuREW3cyXsQYBurA",
+                    "$rowIndex": 15,
+                    "Address": "3124 State Park Road Brainerd, MN 56401",
+                    "Day": "2.3 mi",
+                    "Location Name": "Crow Wing State Park",
+                    "Image": "https://drive.google.com/file/d/1G-49m7Z3PXZDsszhpi-ifonQ4vu-9Qdm/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/xhmW4oFQjYMXD14U3Zju.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Camping, Fishing, Scenic hiking trails, Historic sites, Canoeing/Mississippi River, Great wildlife watching",
+                    "Notes": "Begin your hike at the picnic shelter. Follow the trail north along the Mississippi River through the Old Crow Wing Village site. The trail follows a segment of the Red River Oxcart Trail, where tracks from oxcarts that traveled this route in the mid-1800s can still be seen.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/eVwg2IVSlaQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password13",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00139#homepage"
+                }
+            },
+            {
+                "id": "6yunSnGLPePrcMefUzpY",
+                "data": {
+                    "🔒 Row ID": "W5SHvlbgQ5CdvaqP3FwZmA",
+                    "$rowIndex": 16,
+                    "Address": "Isle, MN 56342",
+                    "Day": "2 mi",
+                    "Location Name": "Father Hennepin State Park",
+                    "Image": "https://drive.google.com/file/d/1EPwEMFy6G9WAPXTg5Ghw-JVjWnJkpQ7a/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/sGtR4bQNT8TqykPzj2pa.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Camping, Fishing, Accessible fishing piers, Sandy beach, Albino deer, Conifer bogs",
+                    "Notes": "Begin your hike at the Lakeview Picnic Area parking lot. The trail winds along Mille Lacs Lake. Enjoy the lake breeze and watch for bald eagles perched in the large trees. Hike through a hardwood forest of oak, maple, basswood and white birch. During the summer, cool off with a swim at the beach.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/PMMv-EP9AuU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password14",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00142#homepage"
+                }
+            },
+            {
+                "id": "B13N9NkFYRZWIQ9v0XJg",
+                "data": {
+                    "🔒 Row ID": "ZLBgqibXSpCaWxOfJ2MaGQ",
+                    "$rowIndex": 17,
+                    "Address": "1300 Summit Avenue New Ulm, MN 56073",
+                    "Day": "2.8 mi",
+                    "Location Name": "Flandrau State Park",
+                    "Image": "https://drive.google.com/file/d/17ygi8RkVKAJOniG5kYco-oEsHtRQrj7b/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/niHH3IMj7uSmr4MSoOoJ.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Shaded campsites, Sand-bottom swimming pond, Enclosed picnic shelter, Scenic overlooks, Hiking/cross-country skiing, Important site in Minnesota history",
+                    "Notes": "The Cottonwood Trail begins on the west side of the swim pond in the picnic area. Hike through a forest of towering cottonwood trees along the Big Cottonwood River and then through prairie on the Grassland Trail that contains many native plants. See the oak savanna restoration along the bluffs near the scenic overlooks on the Ridge and Indian Point trails. Finally, wander through a preserved maple and basswood forest on the Woodland Trail. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/HGInOoywRno\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password15",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00145#homepage"
+                }
+            },
+            {
+                "id": "Bt3bZc6wg1y50yuaS3Zt",
+                "data": {
+                    "🔒 Row ID": "xWJoJNNBSqqxEKuaj6R0PA",
+                    "$rowIndex": 18,
+                    "Address": "21071 County 118 Preston, MN 55965",
+                    "Day": "2 mi",
+                    "Location Name": "Forestville/Mystery Cave State Park",
+                    "Image": "https://drive.google.com/file/d/1QDtpNcsiYXG-vHmkqK9iXxUJCi6oWeTu/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/7WocMiMHLeI0C5N9AxbU.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Mystery Cave tours, Historic Forestville tours, Trout streams, Camping, Great horseback riding trails, Spring wildflowers",
+                    "Notes": "Begin your hike on the trail near the amphitheater, turn right at the trail junction and cross the small boardwalk into the mature hardwood forest. In the spring, see a lush carpet of wildflowers here. Beyond the campground, the trail follows the South Branch Root River, one of southeast Minnesota’s best trout streams. Kingfishers often patrol this area. After crossing the road near Forestville Creek, stay left until the trail crosses the road once more near the park office. Climb through an old\u0002growth oak and sugar maple forest to a ridge with views of the hilly terrain. This section of the trail is especially beautiful during fall.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/A_zpHUH76wg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password16",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00148#homepage"
+                }
+            },
+            {
+                "id": "2fOplC2ZoSUCjFK0k7uH",
+                "data": {
+                    "🔒 Row ID": "uk789hA6RL6CVNdL6eIg7Q",
+                    "$rowIndex": 19,
+                    "Address": "72158 County Road 30 Fairfax, MN 55332",
+                    "Day": "2.6 mi",
+                    "Location Name": "Fort Ridgely State Park",
+                    "Image": "https://drive.google.com/file/d/18aJ2W8I0pH7L3u1SPh1IM6RdBdgYyMmJ/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/HC101C5FZ5powqaGEDwv.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Camping, Historic site, Horseback riding, Scenic rolling hills, Forests and prairies, Oak savanna",
+                    "Notes": "This trail, which begins at the upper picnic shelter, meanders through the fort grounds and then follows the original Fort Road connecting Fort Ridgely State Park with St. Peter. Walk to the battleground that has been replanted with native prairie grasses and flowers. Follow the trail to a beautiful bluff trail overlooking the Minnesota River Valley.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/m_Cx57ponL0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password17",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00151#homepage"
+                }
+            },
+            {
+                "id": "mO9QreUHWBFO2gnG3VJK",
+                "data": {
+                    "🔒 Row ID": "Z.s5FsdCR5Omjno2ghP4QQ",
+                    "$rowIndex": 20,
+                    "Address": "101 Snelling Lake Road St. Paul, MN 55111",
+                    "Day": "3 mi",
+                    "Location Name": "Fort Snelling State Park",
+                    "Image": "https://drive.google.com/file/d/1NgVyZGwGwYHd83hDoBaLprKGa1u9UY16/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/5IQB6aMtSpQ2QjOW9FzJ.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Fishing, Historic site, Dakota memorial, Interpretive exhibits, Bike trails and connections\r\nCross-country skiing",
+                    "Notes": "This trail will take you around the perimeter of Pike island, to where the Mississippi and Minnesota rivers meet. Start at the bridge to the island. Interpretive signs and historic markers convey points of interest. Look for wildlife including white-tailed deer, beaver, pileated woodpeckers and more. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/indSfeTYXgk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password18",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00154#homepage"
+                }
+            },
+            {
+                "id": "Pe8atHLKOuhbJhwQlHIo",
+                "data": {
+                    "🔒 Row ID": "yKT7p0t3RdWKdL4mQhHunw",
+                    "$rowIndex": 21,
+                    "Address": "State Highway 11 Birchdale, MN 56629",
+                    "Day": "1.3 mi",
+                    "Location Name": "Franz Jevne State Park",
+                    "Image": "https://drive.google.com/file/d/1cjio1vVs8l4-flus9vAteSbpCxGMqbtB/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/dsPz6LjPh9qgbHrhEkfg.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Great fishing, Hiking, Quiet, Rainy River, Scenic hiking trails, Stately white pines",
+                    "Notes": "Driving from the park entrance, follow the road to the sign for hike-in campsite 15 (in the second campground loop) and park your vehicle. Take the trail leading to campsite 15, but then continue west along the river. The wooded route meanders along the Rainy River, with a view of Canada on the opposite shore. Wind through this beautiful park enjoying scenic vistas overlooking the river, complete with rapids and rock outcrops dating back 2.5 billion years. Keep an eye out for bald eagles year-round.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/6cLg6HC9jy8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password19",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00157#homepage"
+                }
+            },
+            {
+                "id": "xxLXlPVK3cDcGRFyHZfA",
+                "data": {
+                    "🔒 Row ID": "zC9bfTaWS0G-nLjxn0MLZw",
+                    "$rowIndex": 22,
+                    "Address": "29223 County 28 Boulevard Frontenac, MN 55026",
+                    "Day": "2.6 mi",
+                    "Location Name": "Frontenac State Park",
+                    "Image": "https://drive.google.com/file/d/1TMDYCCNabCVIZIjk2_GSvNk4fmGp-3-i/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/H3FWqCkxJFAYekl8Ufzx.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Camping, Fall colors, Excellent bird watching, Wildflowers from spring through fall, Winter sliding hill, Great hiking and skiing",
+                    "Notes": "The hike is demanding, but the spectacular views make it worth it! This challenging trail starts at the information kiosk in the picnic area. At the beginning, stop at the scenic overlook. From your vantage point 430 feet above Lake Pepin and the Mississippi River, you have awe-inspiring views of the valley and the craggy bluffs of Wisconsin. The trail descends into a valley providing a view of Historic Old Frontenac and continues down a ravine to the bottom of the bluff. The trail then turns back up a ravine of mixed hardwood and oak forests to another vista of the valley and finally brings you back to the picnic area.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/sd0ZC7ECxZE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password20",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00160#homepage"
+                }
+            },
+            {
+                "id": "pHQsT476ef6JAD7KUXXr",
+                "data": {
+                    "🔒 Row ID": "rqZoZpaNSKyWYeREr.6SEg",
+                    "$rowIndex": 23,
+                    "Address": "5702 Highway 61 Silver Bay, MN 55614",
+                    "Day": "4.2 mi",
+                    "Location Name": "George H. Crosby-Manitou State Park",
+                    "Image": "https://drive.google.com/file/d/13lF2crectmQc1S9eccBhJJJVEYw6c31u/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/F9dJRM8gty7P94lvmLNs.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Camping, Back-country hiking, Scenic views, Waterfalls, Wildlife, Old-growth forests",
+                    "Notes": "In this wilderness park, waterfalls cascade through a volcanic canyon surrounded by a majestic forest. Although the trails are steep and challenging, they offer spectacular views. Hike the Middle Trail starting at the trailhead parking area. Don’t miss the two overlooks for impressive views of the Manitou River gorge and Lake Superior. Follow the River Trail upstream to the cascades, and then connect with the Humpback Trail back to the parking area. Due to the strenuous nature of these trails, the Benson Lake Trail is offered as an alternative.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/TtDVH_Ypshk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password21",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00163#homepage"
+                }
+            },
+            {
+                "id": "1Y6Av2tU4ZpAuQuRt3Yp",
+                "data": {
+                    "🔒 Row ID": "cjtHzJUGRB-xj1aXMupoYw",
+                    "$rowIndex": 24,
+                    "Address": "25022 County Road 41 Starbuck, MN 56381",
+                    "Day": "4.7 mi",
+                    "Location Name": "Glacial Lakes State Park",
+                    "Image": "https://drive.google.com/file/d/1P11pbaYtIKtx6Y1YTfk16uMZuCGRmUUn/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/97dV8MRahykJmbISrLoz.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Camping, Fishing, Native prairie, Singalness Lake, Wildflowers, Horseback riding trails",
+                    "Notes": "Begin your hike in the southeast picnic area where you can see an example of the prairie pothole/woodland ecosystem found only in west central Minnesota. Hike along tall oak and basswood forest, prairie knoll, and rolling hills. The park is located in a region comprised of a band of glacial hills unlike any other in the state. As glacial ice advanced southward, hills and bluffs were sheared down to the bedrock. When the ice retreated, it deposited the rocks, gravel and dirt once suspended within it. On this hike, see examples of glacial till deposits — the highest in Minnesota. Also, watch for prairie wildlife.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/4P33l_tlB3A\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password22",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00166#homepage"
+                }
+            },
+            {
+                "id": "rFnNbybdz9eolAPea1UH",
+                "data": {
+                    "🔒 Row ID": "ZbhVL7tYSNe.2s.jMgGWwQ",
+                    "$rowIndex": 25,
+                    "Address": "24869 Whitetail Lane Battle Lake, MN 56515",
+                    "Day": "3.3 mi",
+                    "Location Name": "Glendalough State Park",
+                    "Image": "https://drive.google.com/file/d/1PWAvaSD4b_SZONwInRtf5d6SWxqxEStU/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/07O9NTqWDVfU5oPOGN9r.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Cart-in tent camping and yurts, Hiking and biking, Wildlife observation, Heritage fishing/large panfish, Canoeing on Chain of Lakes, Sandy swimming beach",
+                    "Notes": "The Annie Battle Lake Trail begins and ends at the trail center, but can also be accessed by short spurs from the campground or picnic area. The trail is mostly level throughout with a surface that varies from hard\u0002packed gravel to grass. Follow the trail as it loops through a hardwood forest around pristine Annie Battle Lake, crosses two creeks and passes by the historic Glendalough Lodge. Wildflowers blanket the forest floor in early spring. Deer, turkeys, bald eagles, loons and other wildlife are often seen from the trail, along with scenic vistas of Annie Battle Lake.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/6vvrnFKUlP8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password23",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00167#homepage"
+                }
+            },
+            {
+                "id": "3pxSbd0GIlt8598cNylT",
+                "data": {
+                    "🔒 Row ID": "Eo-UjqKnTbmeofXsjQD2bA",
+                    "$rowIndex": 26,
+                    "Address": "3206 Highway 61 East Two Harbors, MN 55616",
+                    "Day": "2.2 mi",
+                    "Location Name": "Gooseberry Falls State Park",
+                    "Image": "https://drive.google.com/file/d/1H-vQeK7bP_1VVR-MGiYz1yuUEd1e5U40/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/XUUAlzQkCWfkEdIxlqnT.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Scenic waterfalls, Visitor center and large Nature Store, Historic log and stone structures, Lake Superior shoreline, Accessible multi-use trails, Gateway Plaza",
+                    "Notes": "Begin the trail at the Joseph N. Alexander Visitor Center. Follow the upper trail to the Highway 61 Catwalk and cross the bridge, crossing the river to the east side. As you cross the bridge, take in views of the Upper and Middle falls. Then hike the Gitchi Gummi Trail known for its high overlooks offering stunning vistas of Lake Superior and the Gooseberry River Valley. The end of the Gitchi Gummi Trail brings you to a point that juts out into Lake Superior, where you’re rewarded with beautiful views from the overlooks. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/IvUrfresz2o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password24",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00172#homepage"
+                }
+            },
+            {
+                "id": "M2AWkx9mYP1P5hWQxGIN",
+                "data": {
+                    "🔒 Row ID": "UxQINbaCT9GbTLW1HMXEzw",
+                    "$rowIndex": 27,
+                    "Address": "9393 East Highway 61 Grand Portage, MN 55605",
+                    "Day": "1 mi",
+                    "Location Name": "Grand Portage State Park",
+                    "Image": "https://drive.google.com/file/d/1euvL6yCT-LUPCN2YL5sEJr4XDlvc8zq3/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/CdDnMYY3aUn2xpKQWHiU.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Minnesota's tallest waterfall, Hiking, Scenic views, Picnicking, U.S.-Canada border landmark, Ojibwe and Voyageur history",
+                    "Notes": "On this hike, you’ll witness spectacular scenery. The trail starts at the visitor center and leads through a lush northern birch and conifer forest. At the end of the trail, see Minnesota’s highest waterfall (120 feet), High Falls on the Pigeon River. Along the way, bird lovers will spot a variety of songbirds, as well as merlins, ospreys and eagles. Lucky hikers may catch a glimpse of a moose or a family of otters playing near the falls.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Pky7if9xPfM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password25",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00173#homepage"
+                }
+            },
+            {
+                "id": "qz6BfBHfufVElOGGeU1X",
+                "data": {
+                    "🔒 Row ID": "qEQejjBpSrO4O.8rvWQR.g",
+                    "$rowIndex": 28,
+                    "Address": "43605 Kipp Drive Winona, MN 55987",
+                    "Day": "2.5 mi",
+                    "Location Name": "Great River Bluffs State Park",
+                    "Image": "https://drive.google.com/file/d/1KKF404VM8MgjrOh5wXw-kElQPVZ2qNyp/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/btj3BdS94pnAWxtJ9P0z.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Scenic blufftop views of Mississippi River Valley, Fall colors, Goat prairies, Prairie plants/flowers, Camping/hiking/picnicking, Birdwatching",
+                    "Notes": "Hike the King’s Bluff Trail. To find the trail, enter the park and follow this main road one mile to a small parking area on the left. Then begin this great hike! Traverse reconstructed prairies, pine and hardwood plantations, native oak/hickory stands, and several side-hill “goat prairies” atop King’s Bluff. Take in the panoramic view of the Mississippi River Valley below and the Wisconsin bluffs in the distance.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/0PnkuTwveMM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password26",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00244#homepage"
+                }
+            },
+            {
+                "id": "aPHOGY2ZYtuFOXbH4y1Z",
+                "data": {
+                    "🔒 Row ID": "dMyvGRY0Q7Gf0YFT3SQBXg",
+                    "$rowIndex": 29,
+                    "Address": "48990 County Road 4 Roseau, MN 56751",
+                    "Day": "2 mi",
+                    "Location Name": "Hayes Lake State Park",
+                    "Image": "https://drive.google.com/file/d/1PMLaBWMUkucfwXMY4MAD_E9GRqyEUAsm/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/KvNr91aYPiCH0ydnOImW.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Grefthen Bay Overlook, Hayes Dam, Bog boardwalk, History trail, Great wildlife observation, Fishing",
+                    "Notes": "Some days it’s just you, loons and moose while you hike around Hayes Lake State Park. Begin your hike at the head of \nthe Pine Ridge Self-Guided Interpretive Trail located at the south end of Loop A in the campground. Follow the trail along the north shore of Hayes Lake, with scenic views and interpretive signs. Hike onto Hayes Dam, then back to the starting point via the dam entrance road and the campground entrance road.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/FqsG5HEiFL8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password27",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00174#homepage"
+                }
+            },
+            {
+                "id": "bHWmbcNLpd61Bj3hFunw",
+                "data": {
+                    "🔒 Row ID": "7eSCiuVTQeOl.MENhO43Qw",
+                    "$rowIndex": 30,
+                    "Address": "307 Milltown Road Taylors Falls, MN 55084",
+                    "Day": "3 mi",
+                    "Location Name": "Interstate State Park",
+                    "Image": "https://drive.google.com/file/d/1RbZJVeIX8_RfRul4u3sZJ3tmuf6V6TIB/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/nGxxqrwIYxRKIvSCzxNt.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Scenic river views, Canoeing, Camping, Fishing, Rock climbing, Potholes - not what you think!",
+                    "Notes": "Catch a glimpse of one of the world’s largest glacial potholes at the north end of the park near the visitor center before embarking on your 1.5-mile journey southward toward the park office and picnic area. The River Trail takes you across rocky outcroppings along the St. Croix River. Experience the hardwood forest accented with towering pines and a variety of woodland and prairie wildflowers April through August. To return, retrace your steps along the River Trail (1.5 miles) or climb to the sandstone bluffs along the Railroad Trail (1.7 miles), each looping back to the visitor center. For a more enriching experience, contact the park office to ask about downloading or checking out a self\u0002guided audio tour of these trails.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/65CyludIYQI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password28",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00178#homepage"
+                }
+            },
+            {
+                "id": "Hg3KYdCByoWzbKq9MshJ",
+                "data": {
+                    "🔒 Row ID": "YyHvc5kkROCv2b4HnyhACw",
+                    "$rowIndex": 31,
+                    "Address": "36750 Main Park Drive Park Rapids, MN 56470",
+                    "Day": "3.5 mi",
+                    "Location Name": "Itasca State Park",
+                    "Image": "https://drive.google.com/file/d/1OnUCQECdd8UPE0d9LeB3NYqWZOErExsJ/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/COTANkWjOgGKlCYaRhOG.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Camping, Fishing, Mississippi River headwaters, Fire tower, Historic site, Old growth forest",
+                    "Notes": "Begin your hike at the Ozawindib Trail head, located by the large kiosk in the Historic Douglas Lodge parking area. This somewhat hilly trail crosses Wilderness Drive and passes the west side of Mary Lake. Travel south on the Ozawindib Trail among towering stands of white pine, oak, birch, aspen and maple. Turn west on the Crossover Trail, where you will pass Myrtle Lake which is frequented by trumpeter swans. Turn north when you reach Deer Park Trail, with sights of numerous lakes bordered by majestic red and white pine. Look for beaver lodges on the lakes. Watch for deer, fishers, grouse and woodpeckers. The route returns below the Clubhouse, behind Historic Douglas Lodge.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/FM8vqXhue4w\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password29",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00181#homepage"
+                }
+            },
+            {
+                "id": "GhzXmVwBHlUkOYU0YEfq",
+                "data": {
+                    "🔒 Row ID": "JWjSO0ylRWmb6qphlQ9rJA",
+                    "$rowIndex": 32,
+                    "Address": "780 Highway 210 Carlton, MN 55718",
+                    "Day": "3.5 mi",
+                    "Location Name": "Jay Cooke State Park",
+                    "Image": "https://drive.google.com/file/d/18LuI8HP1MHjjTkqebxV7dQoZF7f_QIG3/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/I6GN7s7AOEo53X3omUB4.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Swinging bridge, Camping, Hiking, skiing and snowshoeing, Pioneer Cemetery, Thomson Dam, Oldenburg Point",
+                    "Notes": "Your journey begins at the River Inn Visitor Area located across the Swinging Bridge suspendedhigh above the rushing rapids of the St. Louis River. Climb a short section of rock and keep left up the hill to access the main loop where you’ll find a grassier trail with some steep sections. On the trail you’ll find several habitats typical of the park. This variety leads to a diversity of plants, animals, sights and sounds along the way. Water rushing over rock creates sounds of the river and Silver Creek. Dappled sunlight filters through maple, basswood and aspen trees highlighting forest ferns and wildflowers. Beaver activity created the large open meadow. The brilliant maple in fall, wolf signs in winter, spring wildflowers and summer birdsong make this trail interesting in all seasons. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/30xktX88IZU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password30",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00187#homepage"
+                }
+            },
+            {
+                "id": "4pcHUI7AZ3prNzmzBlii",
+                "data": {
+                    "🔒 Row ID": "Q1phi8sSQDyJJa-lMDCMqA",
+                    "$rowIndex": 33,
+                    "Address": "4051 East Highway 61 Grand Marais, MN 55604",
+                    "Day": "2.5 mi",
+                    "Location Name": "Judge C.R. Magney State Park",
+                    "Image": "https://drive.google.com/file/d/1dm5vBiX4kvofZjEkYX2dgxu6Rw8-hzuH/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/nqEn7BXNINP1FLoGy5xN.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Scenic waterfalls, Trout fishing, Camping, Hiking & picnicking, Wildlife observation, Superior Hiking Trail",
+                    "Notes": "Embark on the most popular hike at Judge C.R. Magney State Park. Begin at the trail head parking area and follow the trail upstream along the Brule River. Wind through a birch and aspen forest in the Brule Valley to a series of spectacular waterfalls (photo p. 22). The highlight of the trail is the mysterious Devil’s Kettle, where the river splits in two as it goes over the falls. One section of the river plunges 50 feet, landing at the base of the falls and continuing downstream. The other section vanishes into a huge pothole known as Devil’s Kettle. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/cH2XFGlk-Fo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password31",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00193#homepage"
+                }
+            },
+            {
+                "id": "zfJ9iKwM5ayPULt7NRbk",
+                "data": {
+                    "🔒 Row ID": "JPsmhCpvQj2Xo9R9Wn6qAQ",
+                    "$rowIndex": 34,
+                    "Address": "50200 860th Street Lakefield, MN 56150",
+                    "Day": "2 mi",
+                    "Location Name": "Kilen Woods State Park",
+                    "Image": "https://drive.google.com/file/d/1pIEmabgxhReZJNGSO8BUD82UHDuUxUfZ/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/sMwBXbD06CqPDCBzjsAS.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Peaceful/Quiet Park, Birdwatching, Hiking, Camping, Spring Wildflowers",
+                    "Notes": "The trail begins at the northeast end of the picnic area parking lot. Follow the signs to the sunny river bottom meadows of the Des Moines River Valley, then continue on a southeasterly course until you reach the trail leading to the Oxcart Trail. At the top of the trail, take a sharp left and enter the path leading to the Dinosaur Ridge Overlook for a grand view of the river valley. Continue along the Overlook Trail until intersecting the Rock Creek Trail. Take a right and follow the markers through areas of prairie and back to the beginning of the trail.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/KB4T1GoxyQc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password32",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00196#homepage"
+                }
+            },
+            {
+                "id": "BtN5mutgTRp0kO5lhMyC",
+                "data": {
+                    "🔒 Row ID": "Nun-jQhKRxG3dVy9PyOUKQ",
+                    "$rowIndex": 35,
+                    "Address": "10045 County 9, Solway, MN 56678",
+                    "Day": "2.9 mi",
+                    "Location Name": "La Salle Lake State Recreation Area",
+                    "Image": "https://drive.google.com/file/d/1OTDWiY0N1bCn4qsppQahbp_Vo4InJEvA/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/5TcKqoQVaPtGY3YHRCA8.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Fishing, Boating, Camping, Unique Ecosystem, Hiking, Snowshoeing",
+                    "Notes": "With a beautiful view of the Mississippi River Valley, the River Overlook Trail is one of themost popular hikes at La Salle Lake State Recreation Area. A portion of La Salle Lake State Recreation Area has been designated as a scientific and natural area (SNA), recognizing the high-quality native communities and rare plant and animal species found there. The trail takes you through this pristine area, past a regenerating forest of pine and aspen. The trail is narrow with slopes that are easy to moderate to hike.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/7y-Q7cv-2Cg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password33",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=sra00311#homepage"
+                }
+            },
+            {
+                "id": "OZFvD8fdIPophMxpbZm1",
+                "data": {
+                    "🔒 Row ID": "CRzGKNSZRNaM5ouc41iVxQ",
+                    "$rowIndex": 36,
+                    "Address": "14047 20th Street Northwest Watson, MN 56295",
+                    "Day": "2 mi",
+                    "Location Name": "Lac qui Parle State Park",
+                    "Image": "https://drive.google.com/file/d/1lfyRMhOgRgBELrnc98HhNG744VWWunir/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/E7An2IjmJ2vvPF438ntk.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Camping, Fishing, Bird Watching/Winter Eagle Sightings, Hunting, Canoeing, Cross-country Skiing",
+                    "Notes": "The hiking trail starts at the Works Progress Administration (WPA) picnic shelter situated along the beautiful Lac qui Parle River. Hike through wooded areas adorned with various trees and flowers. Watch for deer, songbirds, bald eagles and hawks. Spring and fall migrations (geese, whistling swans) can be spectacular. Follow the trail as it circles around the backwaters and returns to the canoe landing. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/p2sTVlm4Dnw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password34",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00197#homepage"
+                }
+            },
+            {
+                "id": "GEizyKLqPM7gWQ6KN2Bo",
+                "data": {
+                    "🔒 Row ID": "4zdatL3PSgGFkXX.G7MQfQ",
+                    "$rowIndex": 37,
+                    "Address": "3401 State Park Road Northeast Bemidji, MN 56601",
+                    "Day": "2 mi",
+                    "Location Name": "Lake Bemidji State Park",
+                    "Image": "https://drive.google.com/file/d/12R57D7a4cYTFrnMJniJ8S6ziJWD-2DgA/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/kmeREV7BQdNByPk9rLhQ.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Camping, Fishing, Unique Ecosystem, Bog Walk, Eagle/Osprey Viewing, Lake Recreation",
+                    "Notes": "The Old Logging Trail that leads to the Bog Walk starts along the north edge of the campground and veers right after crossing the county road. Passing through mature jack pine, big-toothed aspen and oak forests, you’re treated to a truly varying landscape along with the voices of the birds they harbor. The mysteries of the bog are revealed through numerous interpretive signs along the one-quarter mile boardwalk. View an array of beautiful orchids and insect-eating plants during late May through mid-June. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/xsvxz_TdcBY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password35",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00205#homepage"
+                }
+            },
+            {
+                "id": "PygPtuwruzJdYfv2g32d",
+                "data": {
+                    "🔒 Row ID": "W0Z1XruDSDuEjgPNd9olWw",
+                    "$rowIndex": 38,
+                    "Address": "3793 230th St Box 9 Lake Bronson, MN 56734",
+                    "Day": "3.4 mi",
+                    "Location Name": "Lake Bronson State Park",
+                    "Image": "https://drive.google.com/file/d/1daNrdOiSOJ0WDoIHmOLZswReBe9iScRX/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/c7jnz41K5XdAboT2OwDD.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Largest Observation/Water Tower in MN State Park System, Historic WPA-Built Structures, Playground, Excellent Prairie & Aspen Parkland Habitat, Camping/Hiking, Visitor Center",
+                    "Notes": "The trail starts at the picnic and swimming area parking lot. In the summer, bring your swimsuit to take a dip in the lake before or after your hike. Hike along Lake Bronson through aspen and oak woods. At the midpoint, view the oak savanna prairie where the big bluestem and Indian grasses sway in the wind. Then hike through aspen and oak woods and prairie.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/InoPO6sP5pM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password36",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00208#homepage"
+                }
+            },
+            {
+                "id": "ePgCXYpiFntrEK9CNGP5",
+                "data": {
+                    "🔒 Row ID": "lhxosZliToaw2q.SZMD2hw",
+                    "$rowIndex": 39,
+                    "Address": "2601 County Road 38 Northeast Carlos, MN 56319",
+                    "Day": "2.9 mi",
+                    "Location Name": "Lake Carlos State Park",
+                    "Image": "https://drive.google.com/file/d/19eR2PgHSh4slewzvtyUEtR5AmweIWI34/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/ZN608MljcUdgrnOXOJHu.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Camping, Fishing on Chain of Lakes, Birdwatching, Hiking Through Rolling Hills, Swimming/Boating, Water Recreation",
+                    "Notes": "The trail starts and ends at the beach area parking lot. Hike through gently rolling maple/basswood and aspen/oak forests, grassy meadows, and around a shallow lake. Near the end of the trail, walk along Lake Carlos, a deep clear lake noted for its walleye, northern pike, bass and crappie. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/MAVvvZgdPWk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password37",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00211#homepage"
+                }
+            },
+            {
+                "id": "RUBQS7tcTLNOKCkcso5W",
+                "data": {
+                    "🔒 Row ID": "UrYd0rNATk-BEd-IddbH8w",
+                    "$rowIndex": 40,
+                    "Address": "21071 County 118 Preston, MN 55965",
+                    "Day": "1.3 mi",
+                    "Location Name": "Lake Louise State Park",
+                    "Image": "https://drive.google.com/file/d/1O6xaPUKgNokQ6g1E3QVkpP3nX_bRu3Mz/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/rGkMDhqw0Su9yyovTaSX.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Quiet Park, Seasonal Wildflowers, Peaceful Campgrounds, Canoeing on Lake Louise, Swimming Beach, Horse Trails Through Varied Habitat",
+                    "Notes": "The trail starts and ends at the picnic area. The trail winds through a mature hardwood forest, then returns along the Little Iowa River and Lake Louise. Encounter an array of wildflowers — including the nodding wild onion, a Minnesota threatened species — and birdlife ranging from warblers to woodpeckers to green herons. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/H2D5joolCrk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password38",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00214#homepage"
+                }
+            },
+            {
+                "id": "BG9JCl4M8AsW9ZRxrQYb",
+                "data": {
+                    "🔒 Row ID": "yZrirLonQsuGVz89FQbJDw",
+                    "$rowIndex": 41,
+                    "Address": "11411 Clementa Avenue Northwest Monticello, MN 55362",
+                    "Day": "2 mi",
+                    "Location Name": "Lake Maria State Park",
+                    "Image": "https://drive.google.com/file/d/182gSpaLppCc5ebB8jOKVhObmpBvjKMd3/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/SBFZcqndZaYUy8f3MWxC.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Secluded Backpack Campsites, Endangered Blandings Turtle, Hiking/Spring Wildflowers/Fall Colors, Nesting Osprey and Eagles, Remote Ski-in/Walk-in, Camper Cabins, Cross-Country Skiing",
+                    "Notes": "From the Trail Interpretive Center, follow the rolling wooded trail to Bjorkland Lake. The trail takes you past stands of oak and maple old growth forest. Stop at the kiosk to learn about the forest songbirds you may encounter. The observation deck at Bjorkland Lake is a great spot for a picnic lunch or to observe loons, trumpeter swans and waterfowl. With seasonal opportunities to observe wildlife, wildflowers and beautiful Fall color, any time is a great time for this hike",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/pPu5YG8rJoc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password39",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00217#homepage"
+                }
+            },
+            {
+                "id": "ZuwyEvCqUMTyYWiWIjDv",
+                "data": {
+                    "🔒 Row ID": "pPdJthsfTF2Xv5w..4a8zA",
+                    "$rowIndex": 42,
+                    "Address": "163 State Park Road Currie, MN 56123",
+                    "Day": "1 mi",
+                    "Location Name": "Lake Shetek State Park",
+                    "Image": "https://drive.google.com/file/d/10M6gAt3piljvFfN2VH5TOrNWX8De-Ysw/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/NPujCMKYmFPw834nsQJA.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Camping, Fishing, Bicycle Trail, Shetek Monument and Koch Cabin",
+                    "Notes": "A quiet hike on one of the park trails can yield a glimpse of a white-tailed deer or the flightof a white pelican overhead (photo p. 30). The word “shetek” is Ojibwe for “pelican.” Begin your hike at the boat ramp parking area. Hike to Loon Island via the causeway, which is popular with hikers, bird watchers and anglers. It is a great place to relax and watch the sun set. Loon Island is a favorite spot to watch or photograph birds, deer and other wildlife.",
+                    "Video": "<iframe width=\"1128\" height=\"753\" src=\"https://www.youtube.com/embed/Bq8gJAEfChI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password40",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00220#homepage"
+                }
+            },
+            {
+                "id": "rnpT4RSkgHeSOUZv85Bb",
+                "data": {
+                    "🔒 Row ID": "VbfOT9U1QVmEO0NuuJkIxw",
+                    "$rowIndex": 43,
+                    "Address": "1379 Stuntz Bay Road, Soudan, MN 55782",
+                    "Day": "2.5 mi",
+                    "Location Name": "Lake Vermillion-Soudan Underground Mine State Park",
+                    "Image": "https://drive.google.com/file/d/1cPkrLDdAm9Pz3L66IxJdAp9cPOLDX3Y4/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/DbU2gZFe11kHR21sLNPu.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Mine Tours and Hiking, Campground and Day Use Areas, Historic Site, Lake Recreation and Public Water Access, Geologic Formations, Birding and Wildlife Watching",
+                    "Notes": "The trail begins at the former Miner’s Dry House. Go east past the headframe approximately one-quarter mile, then take a left onto Stuntz Bay Road. On the top of the first hill, take a right past the Soudan Iron Formation. Follow the trail along the rim of the open pits, then back down the hill and across Stuntz Bay Road. Walk up the steep entrance road to the Miner’s Dry House.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/G4Vt-iJozfo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password41",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00285#homepage"
+                }
+            },
+            {
+                "id": "9NSeXSYTuCoyyWbW0GLD",
+                "data": {
+                    "🔒 Row ID": "PtHjHEBCSYez9EMNrz345w",
+                    "$rowIndex": 44,
+                    "Address": "39721 Park Entrance Road Pelican Rapids, MN 56572",
+                    "Day": "6.2 mi",
+                    "Location Name": "Maplewood State Park",
+                    "Image": "https://drive.google.com/file/d/1vHNxA3kOefgz-KLGhbhawlEBAAEyiABN/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/IeHADSxFAdc1xoYF2ZtY.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Camping, Fishing, Hiking, Horseback Trails",
+                    "Notes": "Maplewood State Park is known for its hardwood trees, including sugar maple, basswood and oak. Beautiful at any time of year, a hike in the fall is especially impressive: These same trees provide a stunning display of fall colors, with the maple forest turning brilliant shades of orange, gold and red. The trail begins at the trail access parking area, located one-quarter mile from the park office. Hike south from the parking area to the Knoll Campground, then along the west side of Bass Lake to the trail shelter. The trail then heads east, then north between Beers and Bass lakes. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/L34U7Ca-7Fs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password42",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00229#homepage"
+                }
+            },
+            {
+                "id": "XcMdzdBVtHxXFyIUK6fQ",
+                "data": {
+                    "🔒 Row ID": "77cgaZeqRwCuP06DD.Lagw",
+                    "$rowIndex": 45,
+                    "Address": "7622 McCarthy Beach Road Side Lake, MN 55781",
+                    "Day": "3 mi",
+                    "Location Name": "McCarthy Beach State Park",
+                    "Image": "https://drive.google.com/file/d/1YLdH5Jwdf6e03Fnkt_2I20vPRL5OtRaz/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/nvT6Lm01oBMJZBvfa3Y8.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Swimming Beach, Camping, Hiking, Horse Trails, Picnicking, Snowshoeing/snowmobiling",
+                    "Notes": "To access the Hiking Club Trail loop from the park’s entrance, drive 1.5 miles north on McCarthy Beach Road and turn right on Pickerel Lake Road. Pickerel Lake Road is a minimum maintenance gravel road. Drive past the private residence 100 yards to the parking lot on the left. The trail from the parking lot guides you around to the north east side of Pickerel Lake where you may be treated to the sights and sounds of loons or hear the slap of a beaver’s tail as you walk the shoreline of this small trout lake. A short spur trail of stairs leads down to a dock to access the lake. From the east side of the lake, travel up the hill and connect to the Big Hole trail while walking among impressive red and white pines. The hilly landscape also includes mixed stands of birch, aspen, maple, oak and balsam fir. From vantage points along the Big Hole Trail, you look down on a “kettle” pond of glacial origin. The loop trail returns you to the parking lot.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/mOgxbYKh40A\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password43",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00226#homepage"
+                }
+            },
+            {
+                "id": "W5sePifNeWdo2a0KxsxX",
+                "data": {
+                    "🔒 Row ID": "Zk06nF30QYiwS1v9uoV-QQ",
+                    "$rowIndex": 46,
+                    "Address": "15066 Kathio State Park Road Onamia, MN 56359",
+                    "Day": "3.2 mi",
+                    "Location Name": "Mille Lacs Kathio State Park",
+                    "Image": "https://drive.google.com/file/d/1GSHHDN314Qn4kfDmAWnelHGOfJcyWlS4/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/rUzUtpjh6a6Vm6jXZhf2.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Nature Programs, Camping, Swimming/Playground, 100 Ft. Observation Tower, Historic Sites, Cross-Country Skiing",
+                    "Notes": "Trails range from flat to hilly, with one fairly steep incline. Begin your hike at the Kathio Landmark Trail parking area, located near Ogechie Campground. The first three-fourths of a mile of this hike is the Kathio Landmark Trail (photo p. 38). On this segment, interpretive signs at several stops highlight natural views and archaeological sites that have earned the park the title of National Historic Landmark District. Follow the shoreline of Ogechie Lake and then head inland through the hilly hardwood forest of the Mille Lacs moraine. Take advantage of the excellent opportunities along the lakes and trails to watch waterfowl, bald eagles, ospreys, beavers, loons, deer, coyotes and other wildlife.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/E_JtlMbEyTw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password44",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00232#homepage"
+                }
+            },
+            {
+                "id": "UsqatnpQw5Eb4BPunKyk",
+                "data": {
+                    "🔒 Row ID": "eXi9YJcDQGaYR3V4xcmVfw",
+                    "$rowIndex": 47,
+                    "Address": "54497 Gadwall Road Mankato, MN 5600",
+                    "Day": "2.7 mi",
+                    "Location Name": "Minneopa State Park",
+                    "Image": "https://drive.google.com/file/d/1btEp2X_i0sSieKg5bVoHJ8mwEcb2dRth/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/0S7j1wwIoq0DNH5PhTWx.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Camping, Fishing, Bison herd, Waterfall",
+                    "Notes": "Your hike starts at the trail head parking area near the group camp. Follow the Scenic Loop Trail along the Minnesota River bluff. Hike through oak savanna and native prairie grasslands overlooking the scenic Minnesota River Valley. In the summer, spot flowering plants along the way. Optional trail spurs follow Minneopa Creek to its confluence with the Minnesota River or lead you to Seppmann Mill, a wind driven grist mill built in the 1860s and fashioned in German style from native stone and lumber.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/jWPaOcrlaYQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password45",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00235#homepage"
+                }
+            },
+            {
+                "id": "CjEYShyB8urY8UKdeks4",
+                "data": {
+                    "🔒 Row ID": "zXjIfKaoQ4uq7hoUgXZapA",
+                    "$rowIndex": 48,
+                    "Address": "19825 Park Boulevard Jordan, MN 55352",
+                    "Day": "4 mi",
+                    "Location Name": "Minnesota Valley State Recreation Area",
+                    "Image": "https://drive.google.com/file/d/1WGZqoMzfbYKKThuqDHetpYeaBb7vsJqq/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/pbdaCHLmiTQSSYRVQKnv.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Picnickin, Hiking, Horse Trails, Wildlife Observation",
+                    "Notes": "The trail starts and ends at the trail center. This hike will take you on a trail that winds through a mix of floodplain vegetation, including oak savanna, bottomland hardwoods and wet meadows. Follow the trail past the stone marker commemorating a St. Lawrence townsite settler (the townsite of St. Lawrence existed 1856–69) and past Beason Lake, named after the first family that homesteaded in the area. The wet meadow is an excellent spot to view wildlife.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Z0oRhIuVDww\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password46",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=sra00304#homepage"
+                }
+            },
+            {
+                "id": "nsv2BjmTSgg8sD6w7ooH",
+                "data": {
+                    "🔒 Row ID": "kN4RJlrcR--wjqdA6mw58Q",
+                    "$rowIndex": 49,
+                    "Address": "1690 15th Street Northeast Sunburg, MN 56289",
+                    "Day": "1 mi",
+                    "Location Name": "Monson Lake State Park",
+                    "Image": "https://drive.google.com/file/d/1imWl2ctlA7fCp7MOhW76MFWrp_2_RBnM/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/oKafAIiBnp0dQwVjYZqW.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Camping, Fishing",
+                    "Notes": "Leaving the picnic area, follow the trail as it winds through woodlands and along the shores of West Sunburg Lake and Monson Lake before returning to the campground and picnic area. In spring, experience a display of wildflowers plus the sounds and sights of many colorful songbirds. White pelicans, great egrets, and numerous waterfowl are commonly seen on or near West Sunburg and Monson lakes. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/hoKHvvP8l_0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password47",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00238#homepage"
+                }
+            },
+            {
+                "id": "f9aI90nC9wMQucxXVqWM",
+                "data": {
+                    "🔒 Row ID": "gHwa5JisRta0FhKqhPdUQA",
+                    "$rowIndex": 50,
+                    "Address": "4252 County Road 137 Moose Lake, MN 55767",
+                    "Day": "2 mi",
+                    "Location Name": "Moose Lake State Park",
+                    "Image": "https://drive.google.com/file/d/1ezsyCE4NKvCWP7UMLqg-Agdv1TlsKCI3/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/7hnOxFL4N3aDRV0w2Jls.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Close Access To Recreation, Quiet Lake Offers Great Canoeing, Lots Of Family Activity Choices, Fishing/Fishing Pier, Wildflowers & Wildlife Viewing",
+                    "Notes": "Rolling hills surrounded by fields, woods, ponds and lakes make this park popular with hikers. The trail begins just east of the park office. Cross County Road 137 and walk between two wildlife ponds. Head east from the shelter. Take the left fork going north through the forest. The trail then circles east and back south. Bird and butterfly enthusiasts enjoy strolling along this diverse trail winding along ponds, sunny meadows and shady pine and hardwood stands. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/6q3FuHKI1gQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password48",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00239#homepage"
+                }
+            },
+            {
+                "id": "VT0IWHaMC65t4MhLJ4SX",
+                "data": {
+                    "🔒 Row ID": "Na-SqyV4QYqGL--tVSS09g",
+                    "$rowIndex": 51,
+                    "Address": "19499 780th Avenue Albert Lea, MN 56007",
+                    "Day": "6.2 mi",
+                    "Location Name": "Myre-Big Island State Park",
+                    "Image": "https://drive.google.com/file/d/14jBiGQcCka1k1OMSVx89gT4n1e9Ba9ZF/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/SdEN1kZF38m9Ex5PHBRR.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Spring and Fall Migrations, Glacial Esker, Great Marsh/Birdwatching, Hiking, Canoeing, Camping",
+                    "Notes": "The trail starts and ends in the picnic area, first traversing the maple/basswood forest of Big Island. At the northwest corner of the island, the trail exits to the mainland via a causeway. Hikers must walk on the shoulder of the road a short distance. On the mainland, follow the trail as it turns north, giving nice views of Albert Lea Lake, and continues around the east side of the White Fox Campground to the Blazing Star State Trail access. The trail follows the Blazing Star State Trail west near prairie restoration areas, then crosses the main park drive near the park office and continues west to Interstate 35. Continue south toward the Great Marsh, a large wetland where you can expect to see waterfowl, then east along the lakeshore back to the causeway. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/1zrX7KNh1bU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password49",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00175#homepage"
+                }
+            },
+            {
+                "id": "4pcY5ETn2yVrYN1wEub3",
+                "data": {
+                    "🔒 Row ID": "a.OsQGzxrSeGAb7-OpbZ3Wg",
+                    "$rowIndex": 52,
+                    "Address": "9700 170th Street East Nerstrand, MN 55053",
+                    "Day": "2.2 mi",
+                    "Location Name": "Nerstrand Big Woods State Park",
+                    "Image": "https://drive.google.com/file/d/17HWWTMchY182590I7-6IlQkiSjPR_YOf/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/tsXnNOy39t6LlU6Yo0LF.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "\"Big Woods\" Landscape, Spectacular Spring Wildflowers, Fabulous Fall Color, Visitor Center, Hidden Falls Waterfall",
+                    "Notes": "During this hike, you’ll see the maple/basswood forest that is the largest remaining stand of the Big Woods in Minnesota. Pick up Hidden Falls Trail behind the visitor center. Follow the self-guided interpretive trail as it wraps around the campground and descends to Hidden Falls, past the endangered Minnesota dwarf trout lily, a spring wildflower found only in Rice, Goodhue and Steele counties. Cross Prairie Creek and go uphill through the tall tree canopy and open understory of Beaver Trail. Turn onto White Oak Trail, crossing Oak Bridge. Look for the white oaks as you climb uphill. The trail turns east, crossing a bridge and walkway over ravines formed by melting glaciers more than 10,000 years ago. It concludes at the picnic parking area. In the spring, the park is carpeted with wildflowers; in summer, it’s a canopy of green. Fall brings a burst of red, orange and gold. In winter, look for ice formations at Hidden Falls.",
+                    "Video": "<iframe width=\"977\" height=\"550\" src=\"https://www.youtube.com/embed/nyox4JII_QU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password50",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00241#homepage"
+                }
+            },
+            {
+                "id": "fdGLxCgx4Jg6kqNC3KHh",
+                "data": {
+                    "🔒 Row ID": "u0PZU2JaQTW7c3YoDPEVPA",
+                    "$rowIndex": 53,
+                    "Address": "33489 240th Avenue Northwest Argyle, MN 56713",
+                    "Day": "1.4 mi",
+                    "Location Name": "Old Mill State Park",
+                    "Image": "https://drive.google.com/file/d/1Pd2Y1gTCaETiUe9uo-FHR49YQVNSlacd/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/bPq3ZyGgpZcAyDGp8amC.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Camping, Wildlife, Historic Site",
+                    "Notes": "This park is like an island of original landscape in a sea of crop land. Start out at the trail head located southwest of the main parking area and travel along the Aggassiz Self-Guided Trail. Follow the trail to overlooks of the Middle River and landscapes seen by the first European settlers more than a century ago. Along your journey, see oak savanna, prairie, riverine hardwoods and aspen parkland.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/vbXKqMxFFKE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password51",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00247#homepage"
+                }
+            },
+            {
+                "id": "GjzRMLiCQF3NKZU3qm1A",
+                "data": {
+                    "🔒 Row ID": "9d05y-i3QS6FWIjKvRnwgg",
+                    "$rowIndex": 54,
+                    "Address": "515 2nd Street Northwest East Grand Forks, MN 56721",
+                    "Day": "2.2 mi",
+                    "Location Name": "Red River State Recreation Area",
+                    "Image": "https://drive.google.com/file/d/1hxji2bAy5JgreSrE2A2WF5rF9vpD8M5v/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/plaR1657QzUb1EMI010H.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Full Hook-up Campsites, Boating/Fishing/Birding, Picnicking, Paved Multi-use Trails, Nearby Dining and Shopping, Urban Setting",
+                    "Notes": "The River Heights Trail takes you to varying levels of elevation to experience the vistas of the river valley. The trail begins at the park office and travels northwest along the Red River of the North. It turns to the east and follows a levee for approximately a mile. Next, the trail travels through an under-highway tunnel and passes near a flood wall before bringing you back to the park office.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/mKVgR53wxqI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password52",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=sra00309#homepage"
+                }
+            },
+            {
+                "id": "0AFcLzZHSWTaOpLYokV4",
+                "data": {
+                    "🔒 Row ID": "QADIA2DfTT-vZQrf543ivw",
+                    "$rowIndex": 55,
+                    "Address": "8485 Rose Street Owatonna, MN 55060",
+                    "Day": "2.4 mi",
+                    "Location Name": "Rice Lake State Park",
+                    "Image": "https://drive.google.com/file/d/1IF1YvXWHwYe8pdlZnt_GzT3W5qIXmcGr/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/pFQIPuqjVzzATPKgs88d.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Spring and Fall Migration, Birdwatching, Great Variety of Songbirds/Waterfowl, Wildflowers, Canoeing, Nature Observation",
+                    "Notes": "The trail, starts and ends at the picnic shelter and will lead you through diverse areas. Hike east through the picnic area along the lakeshore, then enter the forest area to the campground. Continue along the lakeshore until entering the grasslands, then into the group camp area and into the forest. After crossing the entrance road, travel southwest to the boat launch area along the lake’s edge, before returning to the picnic area. Watch for waterfowl during spring and fall migrations.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/_x1OaQpaMkE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password53",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00250#homepage"
+                }
+            },
+            {
+                "id": "p4PEoJ5DGYnis2yijGQv",
+                "data": {
+                    "🔒 Row ID": "I9InDSm9Sl65QDpzQYzEZQ",
+                    "$rowIndex": 56,
+                    "Address": "30065 St. Croix Park Road Hinckley, MN 55037",
+                    "Day": "4 mi",
+                    "Location Name": "Saint Croix State Park",
+                    "Image": "https://drive.google.com/file/d/1hSkSPWDw9n5k-RpK2LGu5c0kOsI5rzr_/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/zexWMrd18IpYMoOVjsFv.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Camping, Extensive Trail System, CCC Construction Buildings, Two Scenic Rivers Offer Excellent Canoeing, Birding/Wildlife Observation, Firetower",
+                    "Notes": "The River Bluff Trail, beginning at the historicSt. Croix Lodge, is the first leg of your journey. Travel along the St. Croix River, a National Scenic Riverway, and see the restored pine barrens and oak savanna, where trees, prairie grasses and beautiful wildflowers now flourish. As you reach the Yellowbanks site, you can retrace the footsteps of the many people who have used the site throughout history: Ojibwe families, loggers, settlers and Civilian Conservation Corps (CCC) workers. Explore the historic ruins of the CCC camp on the self-guided walking loop to discover the lives of the men that lived here in the 1930s. Return along the paved bicycle trail, keeping watch for white-tailed deer, black bear and other wildlife common to the park.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/POem0w90Q7M?list=PLqTeHCJEcJ41bRYKaZPT7tBGWz0MwX7zY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password54",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00253#homepage"
+                }
+            },
+            {
+                "id": "Qm13OC7zUudHaH6xVunf",
+                "data": {
+                    "🔒 Row ID": "KH9Pf3-wReeua147AH.VNg",
+                    "$rowIndex": 57,
+                    "Address": "50499 Sakatah Lake State Park Road Waterville, MN 56096",
+                    "Day": "2.2 mi",
+                    "Location Name": "Sakatah Lake State Park",
+                    "Image": "https://drive.google.com/file/d/1hI7q5ETnW5ZjHX8ip5lfP9jUrhOWgV8d/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/Ozj3sIierJ8lhCHahMdh.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Maple and Basswood Forests, Hiking, Biking - Access to Sakatah State Trail, Camping, Wildlife",
+                    "Notes": "The trail starts in the visitor parking area near the campground entrance. Sakatah Lake is a natural widening of the Cannon River which forms a boundary between the Big Woods of the Minnesota and Mississippi River valleys and the oak barrens south of the park. See deciduous forest and wetland as you follow the Hidden Pond Trail to the Oak Tree Trail, finishing your hike on the Sumac Trail.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/psC3lKLs0Og\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password55",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00256#homepage"
+                }
+            },
+            {
+                "id": "94RGS47BLho4ksuX7UNl",
+                "data": {
+                    "🔒 Row ID": "Q2-Cfs-lTRmJJtboGXwHhg",
+                    "$rowIndex": 58,
+                    "Address": "55626 Lake Place McGregor, MN 55760",
+                    "Day": "5.3 mi",
+                    "Location Name": "Savanna Portage State Park",
+                    "Image": "https://drive.google.com/file/d/1cXkJeOESrhfmjkPMK7Ouo2zEoqiyzrEn/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/oT5PtHkIXlhQCXCL69Fr.svg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Hiking Trails, Swimming Beach, Fishing, Continental Divide, Snowmobiling, Historic Areas in Park",
+                    "Notes": "Your hike begins at the Lake Shumway boat landing. Follow the Continental Divide Trail as it rises and falls for over two miles. Stop at Wolf Lake Overlook and learn a little history. Take a left on the Old Schoolhouse Trail and follow the trail south through a mix of hardwoods for 1.6 miles. Take a left on the gravel road and follow it for approximately 100 yards. Turn left at the Savanna Portage Trail sign and follow the trail across the Savanna Boardwalk and along the historic trail used by the fur traders, American Indians and voyageurs. Turn right on the Continental Divide Trail and follow it back through the red pine to the Lake Shumway boat landing.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/2DCYzT-3f8M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password56",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00259#homepage"
+                }
+            },
+            {
+                "id": "btPfjGhDLkjC3OWOQWgz",
+                "data": {
+                    "🔒 Row ID": "Q98zKB5sRa-UBSvEEceznw",
+                    "$rowIndex": 59,
+                    "Address": "56956 Scenic Highway 7 Bigfork, MN 56628",
+                    "Day": "2.9 mi",
+                    "Location Name": "Scenic State Park",
+                    "Image": "https://drive.google.com/file/d/10oBKUOh_K3AmKH8LETYk4MMsAUhUCsF1/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/luR1wWKOKfmGEidHOidt.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Camping, Hiking, Virgin Pines, Peaceful Setting, Fishing/Canoeing, Historic CCC Buildings",
+                    "Notes": "The trail begins across from the park office, following the hilly Tell Lake Trail to where it crosses the park entrance road. Here you switch over to the Chase Point Trail, which runs between Coon and Sandwick lakes on a narrow, pine\u0002covered geologic formation believed by some to be a glacial formation known as an esker. After backtracking to the road, go north along a boardwalk through a spruce bog. The trail returns to the park office through an old-growth stand of maples.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/n7iOSx4qVw4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password57",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00262#homepage"
+                }
+            },
+            {
+                "id": "aB5BUnjkkBSIeSTZnqKX",
+                "data": {
+                    "🔒 Row ID": "DUZEoFQuR.mqabFSBpxM0w",
+                    "$rowIndex": 60,
+                    "Address": "9042 Schoolcraft Lane NE Deer River, MN 56636",
+                    "Day": "1.8 mi",
+                    "Location Name": "Schoolcraft State Park",
+                    "Image": "https://drive.google.com/file/d/1S_XHIUFw7XCCQ5BwuxyIw0qTOZxemcYn/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/WdPmhKN412pLMr10yKpi.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Camping, Hiking, Canoeing, Picnicking, Fishing, Quiet Park/Great Relaxation",
+                    "Notes": "The trail, which starts and ends at the picnic area parking lot, follows the Old Grand Rapids Tote Road, constructed more than 100 years ago. Follow the trail as it winds through a beautiful stand of old-growth pine and past a large multi\u0002trunked white pine, believed to be approximately 300 years old. View the elegant and serene Mississippi River from the trail.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/d36j3eGEK9c\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password58",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00263#homepage"
+                }
+            },
+            {
+                "id": "5CgYdPp1L1sKK6jTESVx",
+                "data": {
+                    "🔒 Row ID": "8GLr39UYQHCnHaktCFDktg",
+                    "$rowIndex": 61,
+                    "Address": "800 Sibley Park Road Northeast New London, MN 56273",
+                    "Day": "4 mi",
+                    "Location Name": "Sibley State Park",
+                    "Image": "https://drive.google.com/file/d/1WxI4WVo2sRHWknLeIlRfKIWKnuzXo32O/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/m4bI1iRyvWXiQgpAlaRw.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Interpretive Programs, Bird Watching, Camping, Fishing/Canoeing, Hiking, Cross-Country Skiing",
+                    "Notes": "During this hike, you’ll experience beautiful vistas of wetlands, preserved prairie, several surrounding lakes and Sibley State Park’s hilly forested terrain. The Mount Tom Trail begins at the interpretive center. Hike over hills, along wetlands and up to Mount Tom, one of the highest points within 50 miles. Then follow the trail to Lake Andrew before returning to the interpretive center. Watch for beautiful wildflowers in season, white-tailed deer, colorful songbirds and waterfowl. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/JKl8XTqKbto\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password59",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00265#homepage"
+                }
+            },
+            {
+                "id": "p5G76Dp5F6uQu5zSFKKa",
+                "data": {
+                    "🔒 Row ID": "hr0kyKeLSyi6RJZITQxCeg",
+                    "$rowIndex": 62,
+                    "Address": "336 50th Avenue Jasper, MN 56144",
+                    "Day": "2.6 mi",
+                    "Location Name": "Split Rock Creek State Park",
+                    "Image": "https://drive.google.com/file/d/1ty1CO_9neseXBxsG9YoK2jVzImgFl6mt/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/UULBvP9bmaUu310Jv7kw.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Camping, Swimming beach, Fishing and water recreation, Wildlife/waterfowl observation, Hiking, Horse trails",
+                    "Notes": "The trail begins at the beach area. Follow it north along the lake, also known as the Split Rock Creek Impoundment. Hike along the base of the beautiful Prairie Hill with its 1930s Works Progress Administration (WPA) water tower and onto the main campground area. The trail winds through the campground past the group camp. Next, follow the trail along the prairie’s edge along the Split Rock Creek Stream from which the park takes its name. The trail then swings back to the south along the road and back over the top of the Prairie Hill and wanders south toward the Split Rock Creek dam. Hike across the dam to a small trail loop for a splendid view of the lake. Then return north along the lake to the trail’s beginning. Watch for waterfowl activity along the shoreline sections and see the rare prairie plants blooming on the highlands.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/xpcEbkEGI8o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password60",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00267#homepage"
+                }
+            },
+            {
+                "id": "q96Dut820uFtqPNeNBBC",
+                "data": {
+                    "🔒 Row ID": "GZLkVD6PR8GrusiB8RR.lg",
+                    "$rowIndex": 63,
+                    "Address": "3755 Split Rock Lighthouse Road Two Harbors, MN 55616",
+                    "Day": "5.8 mi",
+                    "Location Name": "Split Rock Lighthouse State Park",
+                    "Image": "https://drive.google.com/file/d/1Cyz6BEFq7bQtXRBx0vwWAcYtzz1lU3EE/view?usp=sharing",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Lake Superior shoreline & scenic views, Historic lighthouse tours from the History Center, Waterfalls, Split Rock Wilds mountain bike trail access, Rustic cart-in & backpack campsites, Drive-in electric sites in the new Shipwreck Creek Campground",
+                    "Notes": "The trail begins at the trail center. Hike past several historical sites including the Corundum Mine Site and Little Two Harbors Fishing Village. Take in exceptional views of the Light Station and Lake Superior along the route. The hike is hilly, but not steep. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/KLwqwyHD7z0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password61",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00266#homepage"
+                }
+            },
+            {
+                "id": "i1KxeoPwBEAgUHZsysV9",
+                "data": {
+                    "🔒 Row ID": "pmpx8Yd7TFeTNbmWwYeA0A",
+                    "$rowIndex": 64,
+                    "Address": "5702 Highway 61 Silver Bay, MN 55614",
+                    "Day": "1.9 mi",
+                    "Location Name": "Temperance River State Park",
+                    "Image": "https://drive.google.com/file/d/1Kh5-epx9MWV85ZT96n7LR6ezgu_m6bQ9/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/QzAxcRAU6yXy0wHNIXHm.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Rock Climbing, Fishing, Hiking, Camping, Many Scenic Areas Along River and Lake, Rocky Landscape",
+                    "Notes": "This exciting trail begins and ends at the wayside rest area on Highway 61. The first one-third mile takes you through the Temperance River Gorge. Interpretive signs explain the fascinating geology and formation of the numerous waterfalls, cascades and cauldrons that make up the river gorge. Follow the river for another half mile. This route then breaks away from the river and takes you on a loop through the woods on your way back to the wayside.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/pxbunker4Ss\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password62",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00268#homepage"
+                }
+            },
+            {
+                "id": "hBOjTS35D1jMcHQnv2pM",
+                "data": {
+                    "🔒 Row ID": "5Dc7G9-8Tq2Rk26edmJubQ",
+                    "$rowIndex": 65,
+                    "Address": "5702 Highway 61 Silver Bay, MN 55614",
+                    "Day": "2 mi",
+                    "Location Name": "Tettegouche State Park",
+                    "Image": "https://drive.google.com/file/d/1tnZs-u_o11DQSv5a1CaRVOpk5btmthdJ/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/i8YfIlD7z3OBCQBCKigi.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Waterfalls, Wildlife/Peregrine Falcons, Hiking, Camping, Rock Climbing, Cross-Country Skiing",
+                    "Notes": "Begin the interpretive Shovel Point Trail near the park office at the Baptism River Rest Area parking lot. Follow the rugged shoreline of Lake Superior. Here you see the place where ancient lava flows built up mountains which were later eroded by several glaciers to create one of the most unique geologic features on the entire North Shore. Shovel Point (photo p. 46) juts more than 1,000 feet into Lake Superior and supports three microclimates with distinct plant communities.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/VZcH9CTJTnI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password63",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00269#homepage"
+                }
+            },
+            {
+                "id": "p16RjBAW13U2lbnOoNj6",
+                "data": {
+                    "🔒 Row ID": "QMHzT6jRT8iNevtF4KRvVA",
+                    "$rowIndex": 66,
+                    "Address": "5908 Highway 67 Granite Falls, MN 56241",
+                    "Day": "4.3 mi",
+                    "Location Name": "Upper Sioux Agency State Park",
+                    "Image": "https://drive.google.com/file/d/10RazVJ1EH8fgKVRzUF4qJP85y2fCYdmH/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/ekLe8wthStboUoIJSJR2.svg",
+                    "Difficulty Rating": "challenging: 4/5",
+                    "Category": "Spectacular prairie views, Camping including tipi sites, Horse trails and camp, Historic site, Birdwatching, Hiking trails through varied landscapes",
+                    "Notes": "The trail starts and ends at the picnic area. First, hike along the Yellow Medicine River Valley with high vistas and hillsides covered with native prairie. Look for red-tailed hawks gliding along with the air currents above the valley. The trail winds its way down into the valley along wooded slopes and around the high point of land where the river valleys meet. Follow the trail through the Minnesota River Valley and through hardwoods until you arrive at the picnic area. Look for the gnarled bur oaks which were likely the only trees on this hillside 150 years ago. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Ni1_ew2zwlc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password64",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00277#homepage"
+                }
+            },
+            {
+                "id": "0mU6Ph1J9vGnGKZlKv8c",
+                "data": {
+                    "🔒 Row ID": "EwuNlM5aSpijALYXayGGKA",
+                    "$rowIndex": 67,
+                    "Address": "19041 Highway 74 Altura, MN 55910",
+                    "Day": "2.2 mi",
+                    "Location Name": "Whitewater State Park",
+                    "Image": "https://drive.google.com/file/d/1bIFRBv0tjOaoxO1X4gYoohfao8W2Gzhu/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/Ja1uSY1I05mK1ZNluzsL.svg",
+                    "Difficulty Rating": "difficult: 5/5",
+                    "Category": "Rugged hiking trails to scenic bluffland, Noticeable lack of mosquitoes, Excellent trout fishing summer and winter, Year-round interpretive programs, Visitor center, Spectacular spring wildflowers",
+                    "Notes": "This trail begins and ends at the Whitewater Valley Visitor Center. As you travel Coyote Point Trail, cross the Whitewater River and climb to the bluff top. Look for a wide variety of plants and natural features: Meadow, preserved prairie, oaks, red cedars, and limestone cliffs. Stop at Coyote Point overlook for a scenic view of the Whitewater River Valley, then hike to the valley floor. Cross Highway 74 at the ball field crosswalk and follow the park road to the bridge over the Whitewater River and back to the visitor center. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/pFqxoFjfArM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password65",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00280#homepage"
+                }
+            },
+            {
+                "id": "YrcqQ0G9iT41wr08T6DX",
+                "data": {
+                    "🔒 Row ID": "qQrY5n9pSb6HzUQUtX3E6g",
+                    "$rowIndex": 68,
+                    "Address": "39797 Park Trail Center City, MN 55012",
+                    "Day": "3.3 mi",
+                    "Location Name": "Wild River State Park",
+                    "Image": "https://drive.google.com/file/d/1-prlRL7iO2Dk2YVXo32eiUrHy1zlv79o/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/XTctCVhs36CRpamjrJsk/pub/TKKv1qMqKCjts0I6P3tw.jpg",
+                    "Difficulty Rating": "easiest: 1/5",
+                    "Category": "Camping, Canoeing, Cross-country skiing, Hiking trails, Nevers Dam Overlook, Wildlife and wildflowers",
+                    "Notes": "To begin your hike, go to the McElroy Visitor Center. Follow the paved bike trail east a short distance and then turn right and head south down the hill. Continue until you come to a three-panel kiosk with a historical account of one of the first roads that connected to Superior, Wisconsin. Hike east through an oak forest and along the St. Croix National Scenic Riverway. Follow the River Trail past the River Access (boat launch) to the historic Nevers Dam site overlook. Then hike west and up the hill to the picnic area. Follow the Old Logging Trail(bike trail) south through oak woods back to the visitor center.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/RpOv-FqGYm4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password66",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00254#homepage"
+                }
+            },
+            {
+                "id": "OBYdwHVJq9gWBBexnftM",
+                "data": {
+                    "🔒 Row ID": "rcgLNTZGQweAGMxh0fhL.g",
+                    "$rowIndex": 69,
+                    "Address": "16821 O'Brien Trail North Marine on St. Croix, MN 55047",
+                    "Day": "6 mi",
+                    "Location Name": "William O’Brien State Park",
+                    "Image": "https://drive.google.com/file/d/1X3LIibm_FAWInR-6xCr-kmUfg3ovrlGl/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/iiAEUKvWkqfIuWRTbIQk/pub/pZaVHSbx19GUivuH8OgK.svg",
+                    "Difficulty Rating": "easy: 2/5",
+                    "Category": "Camping, Canoeing and fishing on the St. Croix River, Cross-country skiing, Naturalist programs, Bird watching, Oak savanna restoration",
+                    "Notes": "The trail begins and ends at the visitor center. Starting out, walk aroundone of the many wetlands. In the spring, listen for chorus frogs and watch for baby goslings in the pond. Then walk through a stone tunnel under the railroad tracks. After the tracks, hike into a finger of the hardwoods that juts down into the park. Look for luscious ferns and listen for the “bee\u0002bzzz-bzzz-bzzz” of the golden-winged warbler. As you leave the woodlands, take a right on the Prairie Overlook Trail. Golden prairie grasses and a spectacular view of the St. Croix River Valley are your reward for making it to the top of the hill. Continue on the trail. Take a break on the bench and see if you can see a beaver lodge and this industrious critter in or around the pond. Hike to the top of Wedge Hill and then down to the visitor center. Look for Eastern bluebirds.",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Unsq9ekaUIQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password67",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00283#homepage"
+                }
+            },
+            {
+                "id": "mdgVOX8tHlLexh7582wi",
+                "data": {
+                    "🔒 Row ID": "2etu2OP9TW6i-bA0qQC-4w",
+                    "$rowIndex": 70,
+                    "Address": "3684 54th Avenue Northwest Williams, MN 56686",
+                    "Day": "1.5 mi",
+                    "Location Name": "Zipple Bay State Park",
+                    "Image": "https://drive.google.com/file/d/1XSVKvTajVUSa1Orevh7q5jNKB5P5_8lK/view?usp=sharing",
+                    "PDF Map": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/iiAEUKvWkqfIuWRTbIQk/pub/TBjDE4VFn7znVCDQBIKa.svg",
+                    "Difficulty Rating": "moderate: 3/5",
+                    "Category": "Camping, Fishing, Sandy beach, Bird watching, Winter recreation, Lake of the Woods",
+                    "Notes": "Beginning at the northwest corner of the Big Beach, the trail first runs along the shoreline of Lake of the Woods and then between the lake and an inland open marsh. Follow the trail as it leads to the Zippel Bay channel, where you take in panoramic views of both Zippel Bay and Lake of the Woods. A small loop in the trail returns you to a walk along the lakeshore and back to the Big Beach parking area. Birding is excellent in the park where marsh, forest and lakeshore meet. ",
+                    "Video": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Pu4YA0RZDfk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "Password": "password68",
+                    "MN DNR URL": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00284#homepage"
+                }
+            },
+            {
+                "id": "FydzAuxfShjcmK7XlM6J",
+                "data": {
+                    "🔒 Row ID": "yB7Xskh7QHuS2VKOUkz1jQ",
+                    "$rowIndex": 71,
+                    "Password": "Password6"
+                }
+            },
+            {
+                "id": "jTVxMo4JGNcFpqLPWIaX",
+                "data": {
+                    "🔒 Row ID": "lSG4M5wHSX6w24gPBtza0Q",
+                    "$rowIndex": 72,
+                    "Password": "Password6"
+                }
+            }
+        ],
+        "Users": []
+    }
+}
