@@ -1,6 +1,6 @@
 import { FaPersonHiking } from "react-icons/fa6";
 
-export async function DifficultyRating( { difficulty }: { difficulty: number} ) {
+export function DifficultyRating( { difficulty }: { difficulty: number} ) {
 
 	return (
 
@@ -17,8 +17,6 @@ export async function DifficultyRating( { difficulty }: { difficulty: number} ) 
             }
         </div>
 
-
 	);
 
 }
-
