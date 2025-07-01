@@ -111,4 +111,14 @@ footer {
 }
 .trail-view {
 	flex: 1 0 25%;
+	.trail-thumbnail {
+		width: 256px;
+		border-radius: .25rem;
+	}
+	.trail-map {
+		display: block;
+		width: 80%;
+		margin: 1rem auto;
+		border-radius: .25rem;
+	}
 }
