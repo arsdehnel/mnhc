@@ -10,11 +10,9 @@ export default function Trail({ ctx, params }: RequestInfo) {
 			<h2 className="page-title">
 				Trail: { params.id }
 			</h2>
-			<div className="trails-viewer">
-				<Suspense fallback={<div>Loading...</div>}>
-					<TrailView id={ params.id } />
-				</Suspense>
-			</div>
+			<Suspense fallback={<div>Loading...</div>}>
+				<TrailView id={ params.id } />
+			</Suspense>
 		</StandardLayout>
 	);
 }

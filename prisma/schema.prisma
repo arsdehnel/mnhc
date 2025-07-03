@@ -54,6 +54,8 @@ model Trail {
   length      Float?      // Trail length in miles (e.g., 2.5)
   proofCode   String?     // Code hidden on trail to verify hike completion
   notes       String
+  latitude    Float?      // Latitude coordinate (decimal degrees)
+  longitude   Float?      // Longitude coordinate (decimal degrees)
   createdAt   DateTime    @default(now())
   updatedAt   DateTime?   @updatedAt
   deletedAt   DateTime?

@@ -78,37 +78,54 @@ footer {
 }
 
 /* 
- _______  ______ _______ _____        _______     
-    |    |_____/ |_____|   |   |      |______     
-    |    |    \_ |     | __|__ |_____ ______|     
-                                                  
+ _______  ______ _______ _____        _______             _____ _______ _______ _____ __   _  ______
+    |    |_____/ |_____|   |   |      |______      |        |   |______    |      |   | \  | |  ____
+    |    |    \_ |     | __|__ |_____ ______|      |_____ __|__ ______|    |    __|__ |  \_| |_____|
+                                                                                                                                                     
 */
-.trails-viewer {
-	display: flex;
-}
 .trails-listing {
-	flex: 0 0 450px;
-	.trail-box {
-		margin: 1rem 0;
-		padding: .5rem;
-		border-bottom: 1px solid #666;
-		display: flex;
-	}
-	.trail-info {
-		flex: 1 0 50%;
-	}
-	.trail-name {
-		font-size: 1.2rem;
-	}
-	.difficulty-rating {
-		font-size: .9rem;
-	}
-	.trail-thumbnail {
-		flex: 0 0 100px;
-		width: 64px;
-		border-radius: .25rem;
-	}
+	@media screen and (min-width: 40em) {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+     
+        .trail-box {
+            flex: 0 1 calc(50% - 1em);
+        }
+    }
+
+    @media screen and (min-width: 60em) {
+        .trail-box {
+            flex: 0 1 calc(25% - 1em);
+        }
+    }
+
+    .trail-box {
+        border: 2px solid #ccc;
+        border-radius: .5rem;
+        margin-bottom: 1rem;
+		padding: 0;
+        
+        img {
+            float: right;
+            width: 128px;
+            margin: 0 1rem 0 1rem;
+        }
+
+        .trail-name {
+            margin: 0;
+            background-color: rgba( 255, 255, 255, .1 );
+            padding: 1rem;
+            border-radius: .5rem .5rem 0 0;
+        }
+    }
 }
+/* 
+ _______  ______ _______ _____             _    _ _____ _______ _  _  _
+    |    |_____/ |_____|   |   |            \  /    |   |______ |  |  |
+    |    |    \_ |     | __|__ |_____        \/   __|__ |______ |__|__|
+                                                                       
+ */
 .trail-view {
 	flex: 1 0 25%;
 	.trail-thumbnail {
@@ -119,6 +136,16 @@ footer {
 		display: block;
 		width: 80%;
 		margin: 1rem auto;
+		border-radius: .25rem;
+	}
+	.dnr-link {
+		display: block;
+		text-align: center;
+		width: 300px;
+		margin: .5rem auto;
+		padding: 1rem;
+		font-size: 1.2rem;
+		background: green;
 		border-radius: .25rem;
 	}
 }

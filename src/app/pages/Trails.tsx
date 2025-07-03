@@ -10,11 +10,9 @@ export default function Trails({ ctx }: RequestInfo) {
 			<h2 className="page-title">
 				Trails
 			</h2>
-			<div className="trails-viewer">
-				<Suspense fallback={<div>Loading...</div>}>
-					<TrailsListing />					
-				</Suspense>
-			</div>
+			<Suspense fallback={<div>Loading...</div>}>
+				<TrailsListing />					
+			</Suspense>
 		</StandardLayout>
 	);
 }
