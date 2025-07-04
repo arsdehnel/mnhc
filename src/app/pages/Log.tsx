@@ -4,7 +4,7 @@ import StandardLayout from '@/app/layouts/standard';
 
 export default function Log({ ctx }: RequestInfo) {
 	return (
-		<StandardLayout ctx={ ctx }>
+		<StandardLayout currentBasePage="log">
 			<p>
 				Hiking Log
 			</p>

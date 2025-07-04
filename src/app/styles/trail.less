@@ -1,0 +1,66 @@
+.trail-view {
+	flex: 1 0 25%;
+	.trail-image {
+		width: 100%;
+        margin: .5rem 0;
+	}
+    .trail-badges {
+        display: flex;
+        width: 100%;
+        flex-flow: row wrap;
+        align-content: space-around;
+        justify-content: center;
+        margin: 0 0 1rem 0;
+        .trail-badge {
+            display: flex;
+            flex-direction: column;
+            width: 25%;
+            border-radius: 8px;
+            border-width: 4px;
+            border-style: solid;
+            padding: .5rem;
+            margin: 0 1rem;
+            text-align: center;
+        }
+        .trail-badge-mileage {
+            border-color: #53565a;
+            background: #f0f0f0;
+        }
+        .trail-badge-rating {
+            border-color: #e57200;
+            background: #f8dbbe;
+        }
+        .trail-badge-download {
+            border-color: #78be21;
+            background: #e4f2d3;
+        }
+        .trail-badge-prefix,
+        .trail-badge-suffix {
+            text-transform: uppercase;
+            font-size: .8rem;
+            font-weight: 600;
+        }
+        .trail-badge-content {
+            flex-grow: 1;
+            font-weight: 900;
+            font-size: 1.2rem;
+        }
+    }
+	.trail-map {
+		display: block;
+		width: 80%;
+		margin: 1rem auto;
+		border-radius: .25rem;
+	}
+	.dnr-link {
+		display: block;
+		text-align: center;
+		width: 300px;
+		margin: .5rem auto;
+		padding: 1rem;
+		font-size: 1.2rem;
+		background: #78be21;
+		border-radius: .25rem;
+        color: white;
+	}
+}

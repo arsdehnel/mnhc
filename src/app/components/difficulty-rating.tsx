@@ -5,7 +5,6 @@ export function DifficultyRating( { difficulty }: { difficulty: number} ) {
 	return (
 
 		<div className="difficulty-rating">
-            Difficulty: 
             {
                 [ 1, 2, 3, 4, 5 ].map( rating => {
                     if( rating > difficulty ) {

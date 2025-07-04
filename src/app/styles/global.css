@@ -1,24 +1,10 @@
-:root {
-	--background: #ffffff;
-	--foreground: #171717;
-}
+@import "./header.less";
+@import "./nav.less";
+@import "./trail.less";
+@import "./typography.less";
+@import "./vars.less";
 
-@media (prefers-color-scheme: dark) {
-	:root {
-		--background: #0a0a0a;
-		--foreground: #ededed;
-	}
-}
 
-.menu {
-	flex: 1 0 100px;
-	display: flex;
-	justify-content: space-around;
-
-	* {
-		padding: 1rem;
-	}
-}
 .user-info {
 	flex: 0 0 30vw;
 	border-left: 2px solid orange;
@@ -55,12 +41,6 @@ a {
 	html {
 		color-scheme: dark;
 	}
-}
-header {
-	/* height: 5vh; */
-	display: flex;
-	background-color: rgba(255, 255, 255, .25);
-	border-bottom: orange 2px solid;
 }
 main {
 	min-height: 90vh;
@@ -119,33 +99,4 @@ footer {
             border-radius: .5rem .5rem 0 0;
         }
     }
-}
-/* 
- _______  ______ _______ _____             _    _ _____ _______ _  _  _
-    |    |_____/ |_____|   |   |            \  /    |   |______ |  |  |
-    |    |    \_ |     | __|__ |_____        \/   __|__ |______ |__|__|
-                                                                       
- */
-.trail-view {
-	flex: 1 0 25%;
-	.trail-thumbnail {
-		width: 256px;
-		border-radius: .25rem;
-	}
-	.trail-map {
-		display: block;
-		width: 80%;
-		margin: 1rem auto;
-		border-radius: .25rem;
-	}
-	.dnr-link {
-		display: block;
-		text-align: center;
-		width: 300px;
-		margin: .5rem auto;
-		padding: 1rem;
-		font-size: 1.2rem;
-		background: green;
-		border-radius: .25rem;
-	}
 }

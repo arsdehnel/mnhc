@@ -15,10 +15,15 @@ import Log from "@/app/pages/Log";
 import Maps from "@/app/pages/Maps";
 import Trails from "@/app/pages/Trails";
 import Trail from "@/app/pages/Trail";
+import Profile from "@/app/pages/Profile";
 
 export type AppContext = {
   session: Session | null;
   user: User | null;
+};
+
+export type RequestProps = {
+  url: string | null;
 };
 
 export default defineApp([
@@ -57,6 +62,7 @@ export default defineApp([
     route("/trails/:id", Trail),
     route("/log", Log),
     route("/maps", Maps),
+    route("/profile", Profile),
     route("/protected", [
       ({ ctx }) => {
         if (!ctx.user) {

@@ -6,7 +6,7 @@ import StandardLayout from '@/app/layouts/standard';
 
 export default function Trails({ ctx }: RequestInfo) {
 	return (
-		<StandardLayout ctx={ctx}>
+		<StandardLayout currentBasePage="trails">
 			<h2 className="page-title">
 				Trails
 			</h2>

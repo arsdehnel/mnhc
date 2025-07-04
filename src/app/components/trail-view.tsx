@@ -1,5 +1,7 @@
 import { kebabCase } from "change-case";
 import { GoLinkExternal } from "react-icons/go";
+import { MdOutlineFileDownload } from "react-icons/md";
+import { FaDiamond } from "react-icons/fa6";
 
 import { db } from "@/db";
 
@@ -22,25 +24,45 @@ export async function TrailView( { id }: { id: string } ) {
 	return (
 
 		<div className="trail-view">
-            <h3>{ trail.name }</h3>
+            <h2>{ trail.name }</h2>
             <p>{ trail.address }</p>
+            <img src={ `/images/trails/${ kebabCase( trail.name.toLowerCase() ) }.jpg` } className="trail-image" />
+            
+            <ul className="trail-badges">
+                <li className="trail-badge trail-badge-mileage">
+                    <span className="trail-badge-prefix">Hiking Club Trail Mileage</span>
+                    <span className="trail-badge-content">{ trail.length }</span>
+                    <span className="trail-badge-suffix">Miles</span>
+                </li>
+                <li className="trail-badge trail-badge-rating">
+                    <span className="trail-badge-prefix">Hiking Club Trail Rating</span>
+                    <span className="trail-badge-content"><FaDiamond /></span>
+                    <span className="trail-badge-suffix">
+                        <DifficultyRating difficulty={ trail.difficulty } />
+                    </span>
+                </li>
+                <li className="trail-badge trail-badge-download">
+                    <span className="trail-badge-prefix">Download State Park Map</span>
+                    <span className="trail-badge-content"><MdOutlineFileDownload /></span>
+                    <span className="trail-badge-suffix">Offline PDF</span>
+                </li>
+            </ul>
+
+            <h4>Hiking Club Trail Description</h4>
+            <p>{ trail.notes }</p>
+
+            <h4>State Park Highlights</h4>
+            <p>coming soon!</p>
+
+            <TrailVideo videoURL={ trail.videoURL } />
+
             {
                 trail.latitude &&
                 trail.longitude &&
                 <TrailMapBox latitude={ trail.latitude } longitude={ trail.longitude } />
             }
-            <h4>Hiking Club Trail Description</h4>
-            <p>{ trail.notes }</p>
-            <DifficultyRating difficulty={ trail.difficulty } />
-            <img src={ `/images/trails/${ kebabCase( trail.name.toLowerCase() ) }.jpg` } className="trail-thumbnail" />
-            <h4>State Park Video</h4>
-            <TrailVideo videoURL={ trail.videoURL } />
-            <h4>Hike Length (miles):</h4>
-            <p>{ trail.length }</p>
-            <h4>Park Map</h4>
-            <img src={ `/images/maps/${ kebabCase( trail.name.toLowerCase() ) }.jpg` } className="trail-map" />
-            <h4>DNR Resources</h4>
-            <p><a className="dnr-link" href={ trail.dnrURL }>State Park Website <GoLinkExternal /></a></p>
+            
+            <p><a className="dnr-link" href={ trail.dnrURL }>Visit State Park Webpage <GoLinkExternal /></a></p>
         </div>
 
 	);

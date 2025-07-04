@@ -4,13 +4,10 @@ import { TrailView } from '../components/trail-view';
 
 import StandardLayout from '@/app/layouts/standard';
 
-export default function Trail({ ctx, params }: RequestInfo) {
+export default function Trail({ params }: RequestInfo) {
 	return (
-		<StandardLayout ctx={ctx}>
-			<h2 className="page-title">
-				Trail: { params.id }
-			</h2>
-			<Suspense fallback={<div>Loading...</div>}>
+		<StandardLayout currentBasePage="trails" >
+			<Suspense fallback={<div>Loading Trail...</div>}>
 				<TrailView id={ params.id } />
 			</Suspense>
 		</StandardLayout>

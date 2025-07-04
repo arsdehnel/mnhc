@@ -4,7 +4,7 @@ import StandardLayout from '@/app/layouts/standard';
 
 export default function Home({ ctx }: RequestInfo) {
   return (
-    <StandardLayout ctx={ ctx }>
+    <StandardLayout currentBasePage="home">
       <p>
         Home
       </p>

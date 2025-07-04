@@ -1,23 +1,10 @@
-import { AppContext } from "@/worker";
+import { Menu } from "../components/menu";
 
-import '../styles/global.css';
-
-export default function StandardLayout({ children, ctx }:
-	{ children: React.ReactNode, ctx: AppContext }) {
+export default function StandardLayout({ children, currentBasePage }: { children: React.ReactNode, currentBasePage: string | undefined }) {	
 	return (
 		<>
 			<header>
-				<div className="menu">
-					<a href="/">Home</a>
-					<a href="/trails">Trails</a>
-					<a href="/log">Hiking Log</a>
-					<a href="/maps">Offline Maps</a>
-				</div>
-				<div className="user-info">
-					{ctx.user?.username
-						? `You are logged in as user ${ctx.user.username}`
-						: "You are not logged in"}
-				</div>
+				<Menu currentBasePage={ currentBasePage } />
 			</header>
 			<main>
 				{children}
