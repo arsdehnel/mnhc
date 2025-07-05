@@ -3,9 +3,9 @@ import { RequestInfo } from "rwsdk/worker";
 import StandardLayout from '@/app/layouts/standard';
 import { TrailPassword } from "../components/data-fetch/trail-password";
 
-export default function LogNew({ params }: RequestInfo) {
+export default function HikeNew({ params }: RequestInfo) {
 	return (
-		<StandardLayout currentBasePage="profile">
+		<StandardLayout currentBasePage="hikes">
 			<h2 className="page-title">
 				Log Your Hike
 			</h2>

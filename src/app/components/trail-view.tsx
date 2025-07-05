@@ -45,7 +45,7 @@ export async function TrailView( { id }: { id: string } ) {
 
             <h2>{ trail.name }</h2>
 
-            <a className="log-hike-button" href={ `/log/new/${ trail.id }` }><span>Log Hike</span></a>
+            <a className="log-hike-button" href={ `/hikes/new/${ trail.id }` }><span>Log Hike</span></a>
 
             <section className="trail-view-section">
                 <p>{ trail.address }</p>

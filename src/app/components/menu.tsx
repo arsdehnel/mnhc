@@ -31,9 +31,9 @@ export function Menu( { currentBasePage }: { currentBasePage: string | undefined
             <a 
                 className={ classNames( {
                     "nav-item": true,
-                    'nav-item-active': currentBasePage === "log"
+                    'nav-item-active': currentBasePage === "hikes"
                 } ) } 
-                href="/log"
+                href="/hikes"
             >
                 <BsListCheck className="nav-item-icon" />
                 <span className="nav-item-label">Hiking Log</span>

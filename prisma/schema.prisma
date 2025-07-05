@@ -27,6 +27,7 @@ model User {
   createdAt   DateTime    @default(now())
 
   credentials Credential[] // Relationship: One user can have many credentials
+  hikes       Hike[]        // Relationship: One user can have many hikes
 }
 
 model Credential {
@@ -40,6 +41,19 @@ model Credential {
   
   @@index([credentialId])
   @@index([userId])
+}
+
+model Hike {
+  id            String   @id @default(uuid()) // Internal DB ID
+  userId        String   @unique // Every hike is linked to a specific user
+  user          User     @relation(fields: [userId], references: [id])
+  trailId       String   @unique // Every hike is linked to a specific trail
+  trail         Trail    @relation(fields: [trailId], references: [id])
+  hikeDate      DateTime
+  comments      String
+
+  @@index([userId])
+  @@index([trailId])
 }
 
 model Trail {
@@ -59,4 +73,6 @@ model Trail {
   createdAt   DateTime    @default(now())
   updatedAt   DateTime?   @updatedAt
   deletedAt   DateTime?
+
+  hikes       Hike[]        // Relationship: One trail can have many hikes
 }
