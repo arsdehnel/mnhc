@@ -12,10 +12,12 @@ export { SessionDurableObject } from "./session/durableObject";
 // pages
 import Home from "@/app/pages/Home";
 import Log from "@/app/pages/Log";
+import LogNew from "@/app/pages/LogNew";
 import Maps from "@/app/pages/Maps";
 import Trails from "@/app/pages/Trails";
 import Trail from "@/app/pages/Trail";
 import Profile from "@/app/pages/Profile";
+import LogEdit from "./app/pages/LogEdit";
 
 export type AppContext = {
   session: Session | null;
@@ -61,6 +63,8 @@ export default defineApp([
     route("/trails", Trails),
     route("/trails/:id", Trail),
     route("/log", Log),
+    route("/log/new/:trailId", LogNew),
+    route("/log/:id", LogEdit),
     route("/maps", Maps),
     route("/profile", Profile),
     route("/protected", [

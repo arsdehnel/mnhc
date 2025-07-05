@@ -1,0 +1,17 @@
+import { Suspense } from "react";
+import { RequestInfo } from "rwsdk/worker";
+import StandardLayout from '@/app/layouts/standard';
+import { LogEntry } from "../components/log-entry";
+
+export default function LogEdit({ params }: RequestInfo) {
+	return (
+		<StandardLayout currentBasePage="profile">
+			<h2 className="page-title">
+				Edit Log Entry
+			</h2>
+			<Suspense fallback={<div>Loading Log Entry...</div>}>
+				<LogEntry id={ params.id } trailId={ params.trailId } />				
+			</Suspense>
+		</StandardLayout>
+	);
+}
