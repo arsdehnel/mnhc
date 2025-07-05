@@ -12,7 +12,8 @@ export function TrailMapBox( { latitude, longitude }: { latitude: number, longit
                 latitude,
                 zoom: 9
             }}
-            style={{width: 600, height: 400}}
+            onLoad={ ( { target } ) => target.resize() }
+            style={ { width: '100%', height: 400 } }
             mapStyle="mapbox://styles/mapbox/streets-v9"
         />
     )
