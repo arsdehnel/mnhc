@@ -4,12 +4,8 @@ import YouTube from 'react-youtube';
 export function TrailVideo( { videoURL }: { videoURL: string } ) {
 
     const videoOpts = {
-      height: '390',
-      width: '640',
-      playerVars: {
-        // https://developers.google.com/youtube/player_parameters
-        autoplay: 1,
-      },
+      // height: '390',
+      width: '100%'
     };
 
     let videoId;
