@@ -5,9 +5,9 @@ import StandardLayout from '@/app/layouts/standard';
 export default function Maps({ ctx }: RequestInfo) {
 	return (
 		<StandardLayout currentBasePage="maps">
-			<p>
+			<h2 className="page-title">
 				Maps
-			</p>
+			</h2>
 		</StandardLayout>
 	);
 }
