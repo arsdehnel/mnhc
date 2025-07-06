@@ -34,6 +34,7 @@
     "@types/mapbox-gl": "^3.4.1",
     "change-case": "^5.4.4",
     "classnames": "^2.5.1",
+    "dayjs": "^1.11.13",
     "mapbox-gl": "^3.13.0",
     "react-icons": "^5.5.0",
     "react-map-gl": "^8.0.4",

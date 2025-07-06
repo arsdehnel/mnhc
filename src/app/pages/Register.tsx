@@ -7,10 +7,10 @@ import {
 import {
     finishPasskeyRegistration,
     startPasskeyRegistration,
-} from "./functions";
+} from "../functions/passkey";
 import { link } from '@/app/shared/links';
 
-export const Signup = () => {
+export default function Register() {
 
     const [username, setUsername] = useState("");
     const [result, setResult] = useState("");
@@ -29,7 +29,7 @@ export const Signup = () => {
         if (!success) {
             setResult("Registration failed");
         } else {
-            window.location.href = link("/user/login");
+            window.location.href = link("/login");
         }
     };
 
@@ -39,7 +39,7 @@ export const Signup = () => {
 
     return (
         <>
-            <div>Signup</div>
+            <div>Register</div>
             <input
                 type="text"
                 value={username}
