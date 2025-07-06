@@ -25,18 +25,16 @@ export function TrailPwdEntry({ trailId }: { trailId: string | undefined }) {
     return (
 
         <div className="form-wrapper">
-            <div>
-                <input type="text" onChange={handleCodeCheck} />
-                {
-                    isPending ?
-                        <MdOutlinePending color="orange" /> : 
-                        checkStatus === 'FAILED' ? 
-                            <MdError color="#990000" /> : 
-                            checkStatus === 'PASSED' ?
-                                <MdCheckCircle color="green" /> :
-                                ''
-                }
-            </div>
+            <input type="text" onChange={handleCodeCheck} />
+            {
+                isPending ?
+                    <MdOutlinePending color="orange" /> : 
+                    checkStatus === 'FAILED' ? 
+                        <MdError color="#990000" /> : 
+                        checkStatus === 'PASSED' ?
+                            <MdCheckCircle color="green" /> :
+                            ''
+            }
         </div>
 
     );
