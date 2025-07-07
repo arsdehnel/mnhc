@@ -1,7 +1,7 @@
 import StandardLayout from '@/app/layouts/standard';
 import { RequestInfo } from 'rwsdk/worker';
-import UserProfile from '../components/user-profile';
-import { link } from '@/app/shared/links';
+import ProfileAuth from '@/app/components/profile-auth';
+import ProfileNoAuth from '@/app/components/profile-no-auth';
 
 export default function Profile({ ctx }: RequestInfo) {
 	return (
@@ -11,11 +11,8 @@ export default function Profile({ ctx }: RequestInfo) {
 			</h2>
 			{
 				ctx.user ?
-					<UserProfile user={ ctx.user } /> :
-					<div>
-						<a href={ link("/register") }>Register</a>
-						<a href={ link("/login") }>Login</a>
-					</div>
+					<ProfileAuth user={ ctx.user } /> :
+					<ProfileNoAuth />
 			}
 		</StandardLayout>
 	);

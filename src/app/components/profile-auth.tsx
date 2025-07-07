@@ -2,8 +2,7 @@ import dayjs from 'dayjs';
 import { link } from '@/app/shared/links';
 import { User } from "@/db";
 
-export default function UserProfile( { user }: { user: User } ) {
-
+export default function ProfileAuth( { user }: { user: User } ) { 
     return (
         <p>
             <div>Hey { JSON.stringify( user ) }</div>

@@ -1,5 +1,7 @@
+@import "./error.less";
 @import "./forms.less";
 @import "./header.less";
+@import "./links.less";
 @import "./nav.less";
 @import "./profile.less";
 @import "./trail.less";
@@ -32,11 +34,6 @@ body {
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
-}
-
-a {
-	color: inherit;
-	text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
