@@ -9,7 +9,6 @@ export default function StandardLayout({ children, currentBasePage }: { children
 			<main>
 				{children}
 			</main>
-			<footer>Footer</footer>
 		</>
 	);
 }
