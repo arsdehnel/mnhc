@@ -1,20 +1,14 @@
 @import "./error.less";
 @import "./forms.less";
 @import "./header.less";
+@import "./layout.less";
 @import "./links.less";
 @import "./nav.less";
 @import "./profile.less";
 @import "./trail.less";
+@import "./trails.less";
 @import "./typography.less";
 @import "./vars.less";
-
-
-.user-info {
-	flex: 0 0 30vw;
-	border-left: 2px solid orange;
-	text-align: center;
-	padding: 1rem;
-}
 
 html,
 body {
@@ -34,68 +28,4 @@ body {
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
-}
-
-@media (prefers-color-scheme: dark) {
-	html {
-		color-scheme: dark;
-	}
-}
-main {
-	min-height: 90vh;
-	max-width: 1200px;
-	padding: 1rem;
-	margin: 0 auto;
-	background: var(--background);
-}
-footer {
-	background-color: rgba(255, 255, 255, .25);
-	text-align: center;
-	padding: 1rem;
-	border-top: orange 2px solid;
-	height: 5vh;
-}
-
-/* 
- _______  ______ _______ _____        _______             _____ _______ _______ _____ __   _  ______
-    |    |_____/ |_____|   |   |      |______      |        |   |______    |      |   | \  | |  ____
-    |    |    \_ |     | __|__ |_____ ______|      |_____ __|__ ______|    |    __|__ |  \_| |_____|
-                                                                                                                                                     
-*/
-.trails-listing {
-	@media screen and (min-width: 40em) {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-     
-        .trail-box {
-            flex: 0 1 calc(50% - 1em);
-        }
-    }
-
-    @media screen and (min-width: 60em) {
-        .trail-box {
-            flex: 0 1 calc(25% - 1em);
-        }
-    }
-
-    .trail-box {
-        border: 2px solid #ccc;
-        border-radius: .5rem;
-        margin-bottom: 1rem;
-		padding: 0;
-        
-        img {
-            float: right;
-            width: 128px;
-            margin: 0 1rem 0 1rem;
-        }
-
-        .trail-name {
-            margin: 0;
-            background-color: rgba( 255, 255, 255, .1 );
-            padding: 1rem;
-            border-radius: .5rem .5rem 0 0;
-        }
-    }
 }
