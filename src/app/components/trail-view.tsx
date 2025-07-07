@@ -6,7 +6,7 @@ import { db } from "@/db";
 
 import { DifficultyRating } from "./difficulty-rating";
 import { TrailVideo } from "./trail-video";
-import { TrailMapBox } from "./trail-mapbox";
+import { TrailMapBox } from "./client/trail-mapbox";
 
 export async function TrailView( { id }: { id: string } ) {
 
