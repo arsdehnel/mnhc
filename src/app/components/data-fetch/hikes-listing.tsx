@@ -1,6 +1,11 @@
-import { db } from "@/db";
+import { link } from '@/app/shared/links';
+import { db, User } from "@/db";
 
-export async function HikesListing() {
+export async function HikesListing( { user }: { user: User | null } ) {
+
+    if( !user ) {
+        return <p>In order to log your hikes you must first be authenticated, please <a href={ link("/login" ) }>log in</a> or <a href={ link("/register") }>register</a>.</p>
+    }
 
 	const hikes = await db.hike.findMany();
 

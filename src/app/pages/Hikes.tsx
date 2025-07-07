@@ -11,7 +11,7 @@ export default function Hikes({ ctx }: RequestInfo) {
 				Hiking Log
 			</h2>
 			<Suspense fallback={<div>Loading your hikes...</div>}>
-				<HikesListing />					
+				<HikesListing user={ ctx.user } />					
 			</Suspense>
 		</StandardLayout>
 	);
