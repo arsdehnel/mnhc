@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import { RequestInfo } from "rwsdk/worker";
 import StandardLayout from '@/app/layouts/standard';
-import { LogEntry } from "../components/log-entry";
+import { HikeForm } from "../components/data-fetch/hike-form";
 
 export default function HikeEdit({ params }: RequestInfo) {
 	return (
@@ -10,7 +10,7 @@ export default function HikeEdit({ params }: RequestInfo) {
 				Edit Hike
 			</h2>
 			<Suspense fallback={<div>Loading Hike...</div>}>
-				<LogEntry id={ params.id } trailId={ params.trailId } />				
+				<HikeForm id={ params.id } />
 			</Suspense>
 		</StandardLayout>
 	);
