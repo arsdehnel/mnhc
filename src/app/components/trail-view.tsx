@@ -43,7 +43,7 @@ export async function TrailView( { id }: { id: string } ) {
 
 		<div className="trail-view">
 
-            <h2>{ trail.name }</h2>
+            <h2 className="page-title">{ trail.name }</h2>
 
             <a className="log-hike-button" href={ `/hikes/new/${ trail.id }` }><span>Log Hike</span></a>
 
@@ -65,7 +65,7 @@ export async function TrailView( { id }: { id: string } ) {
                     <li className="trail-badge trail-badge-rating">
                         <span className="trail-badge-prefix">Hiking Club Trail Rating</span>
                         <span className="trail-badge-content">
-                            <DifficultyRating difficulty={ trail.difficulty } />
+                            <DifficultyRating difficulty={ trail.difficulty } showLabel={ false } />
                         </span>
                         <span className="trail-badge-suffix">{ difficultyWord }</span>
                     </li>
@@ -84,7 +84,7 @@ export async function TrailView( { id }: { id: string } ) {
 
             <section className="trail-view-section">
                 <h4>State Park Highlights</h4>
-                <p>coming soon!</p>
+                <p>Coming soon!</p>
             </section>
 
             <section className="trail-view-section">

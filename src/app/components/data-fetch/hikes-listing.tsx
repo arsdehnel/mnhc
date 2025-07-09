@@ -10,7 +10,7 @@ export async function HikesListing( { user }: { user: User | null } ) {
 	const hikes = await db.hike.findMany();
 
     if( !hikes || hikes.length === 0 ) {
-        return <p>No hikes yet!</p>
+        return <p>No hikes yet! Probably the easiest way to log a hike is to go to the <a href={ link( "/trails" ) }>trails page</a>, find the trail you hiked, and then use the Log Hike button to create a log entry.</p>
     }
 
 	return (

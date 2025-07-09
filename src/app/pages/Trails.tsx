@@ -1,6 +1,6 @@
 import { Suspense } from "react";
 import { RequestInfo } from "rwsdk/worker";
-import { TrailsListing } from "../components/trails-listing";
+import { TrailsListing } from "../components/data-fetch/trails-listing";
 
 import StandardLayout from '@/app/layouts/standard';
 

@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import { RequestInfo } from "rwsdk/worker";
 import StandardLayout from '@/app/layouts/standard';
-import { TrailPassword } from "../components/data-fetch/trail-password";
+import { TrailCode } from "../components/data-fetch/trail-code";
 
 export default function HikeNew({ params }: RequestInfo) {
 	return (
@@ -10,7 +10,7 @@ export default function HikeNew({ params }: RequestInfo) {
 				Log Your Hike
 			</h2>
 			<Suspense fallback={<div>Loading Trail...</div>}>
-				<TrailPassword trailId={ params.trailId } />				
+				<TrailCode trailId={ params.trailId } />				
 			</Suspense>
 		</StandardLayout>
 	);

@@ -1,8 +1,8 @@
 import { db } from "@/db";
 
-import { TrailPwdEntry } from "../client/trail-pwd-entry";
+import { HikeCodeEntry } from "../client/hike-code-entry";
 
-export async function TrailPassword( { trailId }: { trailId: string | undefined } ) {
+export async function TrailCode( { trailId }: { trailId: string | undefined } ) {
 
     const trail = await db.trail.findUnique({
         where: {
@@ -22,7 +22,7 @@ export async function TrailPassword( { trailId }: { trailId: string | undefined 
 
             <section className="trail-view-section">
                 <h4>Hiking Club Trail Password</h4>
-                <TrailPwdEntry trailId={ trailId } />
+                <HikeCodeEntry trailId={ trailId } />
             </section>
 
         </div>
