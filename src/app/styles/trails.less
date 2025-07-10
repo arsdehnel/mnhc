@@ -1,22 +1,4 @@
 .trails-listing {
-	@media screen and (min-width: 40em) {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-     
-        .trail-box {
-            flex: 0 1 calc(50% - 1em);
-            border: 2px solid #ccc;
-            border-radius: .5rem;
-        }
-    }
-
-    @media screen and (min-width: 60em) {
-        .trail-box {
-            flex: 0 1 calc(25% - 1em);
-        }
-    }
-
     .trail-box {
         display: flex;
         margin-bottom: 1rem;
@@ -45,6 +27,33 @@
             a {
                 color: black;
             }
+        }
+    }
+	@media screen and (min-width: 40em) {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        .thumbnail {
+            display: flex;
+            align-items: center;
+        }
+     
+        .trail-box {
+            flex: 0 1 calc(50% - 1em);
+            border: 2px solid #ccc;
+            border-radius: .5rem;
+            padding: .25rem;
+        }
+
+        .trail-info {
+            margin-right: .5rem;
+        }
+    }
+
+    @media screen and (min-width: 60em) {
+        .trail-box {
+            flex: 0 1 calc(33% - 1em);
         }
     }
 }
