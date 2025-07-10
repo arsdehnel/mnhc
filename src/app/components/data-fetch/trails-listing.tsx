@@ -10,7 +10,6 @@ export async function TrailsListing() {
 	return (
 
 		<div className="trails-listing">
-
 			{ 
                 dbTrails.map( trail => {
                     return (
@@ -27,7 +26,6 @@ export async function TrailsListing() {
                     )
                 } )
             }
-
         </div>
 
 	);
