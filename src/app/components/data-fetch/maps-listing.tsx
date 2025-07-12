@@ -1,5 +1,6 @@
+import { kebabCase } from "change-case";
 import { db } from "@/db";
-import { BiDownload } from 'react-icons/bi';
+import { MapDownload } from "../client/map-download";
 
 export async function MapsListing() {
 
@@ -12,7 +13,7 @@ export async function MapsListing() {
                 trails.map( trail => {
                     return (
                         <div key={ trail.id } className="map-box">
-                            <BiDownload className="map-download" />
+                            <MapDownload url={ `/images/maps/${ kebabCase( trail.name.toLowerCase() ) }.jpg` } />
                             <div className="map-name">{ trail.name }</div>
                             <div className="map-length">{ trail.length } miles</div>
                         </div>    
